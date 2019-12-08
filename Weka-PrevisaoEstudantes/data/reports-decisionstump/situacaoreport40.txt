@@ -1,0 +1,82 @@
+
+=== Classifier model (full training set) ===
+
+Decision Stump
+
+Classifications
+
+questao_25 = 1 : fortemente_aprovado
+questao_25 != 1 : fortemente_reprovado
+questao_25 is missing : fortemente_aprovado
+
+Class distributions
+
+questao_25 = 1
+fortemente_aprovado	fortemente_reprovado	
+0.7777777777777778	0.2222222222222222	
+questao_25 != 1
+fortemente_aprovado	fortemente_reprovado	
+0.16666666666666666	0.8333333333333334	
+questao_25 is missing
+fortemente_aprovado	fortemente_reprovado	
+0.5897435897435898	0.41025641025641024	
+
+
+Time taken to build model: 0.27 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          31               79.4872 %
+Incorrectly Classified Instances         8               20.5128 %
+Kappa statistic                          0.5593
+Mean absolute error                      0.3248
+Root mean squared error                  0.403 
+Relative absolute error                 67.0108 %
+Root relative squared error             81.9233 %
+Total Number of Instances               39     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.913    0.375    0.778      0.913    0.840      0.573    0.769     0.761     fortemente_aprovado
+                 0.625    0.087    0.833      0.625    0.714      0.573    0.769     0.675     fortemente_reprovado
+Weighted Avg.    0.795    0.257    0.801      0.795    0.788      0.573    0.769     0.726     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 21  2 |  a = fortemente_aprovado
+  6 10 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          22               56.4103 %
+Incorrectly Classified Instances        17               43.5897 %
+Kappa statistic                          0.2154
+Mean absolute error                      0.4701
+Root mean squared error                  0.5656
+Relative absolute error                 99.6905 %
+Root relative squared error            118.232  %
+Total Number of Instances               39     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.423    0.154    0.846      0.423    0.564      0.269    0.635     0.743     fortemente_aprovado
+                 0.846    0.577    0.423      0.846    0.564      0.269    0.635     0.409     fortemente_reprovado
+Weighted Avg.    0.564    0.295    0.705      0.564    0.564      0.269    0.635     0.631     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 11 15 |  a = fortemente_aprovado
+  2 11 |  b = fortemente_reprovado
+

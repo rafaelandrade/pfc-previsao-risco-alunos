@@ -1,0 +1,267 @@
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                              Class
+Attribute       fortemente_aprovado fortemente_reprovado
+                             (0.56)               (0.44)
+=========================================================
+questao_0
+  1                              9.0                 12.0
+  0                              8.0                  3.0
+  -1                            14.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_1
+  1                             18.0                 14.0
+  0                              8.0                  3.0
+  -1                             5.0                  8.0
+  [total]                       31.0                 25.0
+
+questao_2
+  1                              9.0                 12.0
+  0                              7.0                  3.0
+  -1                            15.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_3
+  1                             10.0                 12.0
+  0                              7.0                  3.0
+  -1                            14.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_4
+  1                             13.0                 16.0
+  0                              7.0                  3.0
+  -1                            11.0                  6.0
+  [total]                       31.0                 25.0
+
+questao_5
+  1                              9.0                  4.0
+  0                              7.0                  3.0
+  -1                            15.0                 18.0
+  [total]                       31.0                 25.0
+
+questao_6
+  1                             14.0                  9.0
+  0                              7.0                  3.0
+  -1                            10.0                 13.0
+  [total]                       31.0                 25.0
+
+questao_7
+  1                             17.0                 13.0
+  0                              7.0                  3.0
+  -1                             7.0                  9.0
+  [total]                       31.0                 25.0
+
+questao_8
+  1                             10.0                  8.0
+  0                              7.0                  3.0
+  -1                            14.0                 14.0
+  [total]                       31.0                 25.0
+
+questao_9
+  1                             16.0                 11.0
+  0                              7.0                  4.0
+  -1                             8.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_10
+  1                              3.0                  5.0
+  0                              9.0                  5.0
+  -1                            19.0                 15.0
+  [total]                       31.0                 25.0
+
+questao_11
+  1                              5.0                  5.0
+  0                              7.0                  3.0
+  -1                            19.0                 17.0
+  [total]                       31.0                 25.0
+
+questao_12
+  1                              6.0                 10.0
+  0                              7.0                  4.0
+  -1                            18.0                 11.0
+  [total]                       31.0                 25.0
+
+questao_13
+  1                             15.0                 16.0
+  0                              7.0                  4.0
+  -1                             9.0                  5.0
+  [total]                       31.0                 25.0
+
+questao_14
+  1                             16.0                 10.0
+  0                              7.0                 10.0
+  -1                             8.0                  5.0
+  [total]                       31.0                 25.0
+
+questao_15
+  1                             23.0                 14.0
+  0                              7.0                 10.0
+  -1                             1.0                  1.0
+  [total]                       31.0                 25.0
+
+questao_16
+  1                             11.0                  6.0
+  0                              7.0                 10.0
+  -1                            13.0                  9.0
+  [total]                       31.0                 25.0
+
+questao_17
+  1                             14.0                  8.0
+  0                              7.0                 10.0
+  -1                            10.0                  7.0
+  [total]                       31.0                 25.0
+
+questao_18
+  1                             10.0                  4.0
+  0                              9.0                 10.0
+  -1                            12.0                 11.0
+  [total]                       31.0                 25.0
+
+questao_19
+  1                             14.0                  8.0
+  0                              9.0                 10.0
+  -1                             8.0                  7.0
+  [total]                       31.0                 25.0
+
+questao_20
+  1                             10.0                  6.0
+  0                              9.0                 10.0
+  -1                            12.0                  9.0
+  [total]                       31.0                 25.0
+
+questao_21
+  1                              8.0                  8.0
+  0                              9.0                 10.0
+  -1                            14.0                  7.0
+  [total]                       31.0                 25.0
+
+questao_22
+  1                             14.0                 12.0
+  0                              4.0                  5.0
+  -1                            13.0                  8.0
+  [total]                       31.0                 25.0
+
+questao_23
+  1                             22.0                 17.0
+  0                              4.0                  4.0
+  -1                             5.0                  4.0
+  [total]                       31.0                 25.0
+
+questao_24
+  1                             12.0                  9.0
+  0                              4.0                  5.0
+  -1                            15.0                 11.0
+  [total]                       31.0                 25.0
+
+questao_25
+  1                             23.0                 12.0
+  0                              4.0                  5.0
+  -1                             4.0                  8.0
+  [total]                       31.0                 25.0
+
+questao_26
+  1                             23.0                 15.0
+  0                              4.0                  5.0
+  -1                             4.0                  5.0
+  [total]                       31.0                 25.0
+
+questao_27
+  1                             14.0                  7.0
+  0                              4.0                  4.0
+  -1                            13.0                 14.0
+  [total]                       31.0                 25.0
+
+questao_28
+  1                             19.0                  9.0
+  0                              4.0                  4.0
+  -1                             8.0                 12.0
+  [total]                       31.0                 25.0
+
+questao_29
+  1                             24.0                 15.0
+  0                              4.0                  4.0
+  -1                             3.0                  6.0
+  [total]                       31.0                 25.0
+
+questao_30
+  1                             21.0                 12.0
+  0                              4.0                  4.0
+  -1                             6.0                  9.0
+  [total]                       31.0                 25.0
+
+questao_31
+  1                             21.0                 16.0
+  0                              4.0                  4.0
+  -1                             6.0                  5.0
+  [total]                       31.0                 25.0
+
+questao_32
+  1                             25.0                 16.0
+  0                              4.0                  5.0
+  -1                             2.0                  4.0
+  [total]                       31.0                 25.0
+
+
+
+Time taken to build model: 0.32 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          37               74      %
+Incorrectly Classified Instances        13               26      %
+Kappa statistic                          0.48  
+Mean absolute error                      0.2783
+Root mean squared error                  0.4696
+Relative absolute error                 56.4445 %
+Root relative squared error             94.5993 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.714    0.227    0.800      0.714    0.755      0.483    0.792     0.822     fortemente_aprovado
+                 0.773    0.286    0.680      0.773    0.723      0.483    0.792     0.755     fortemente_reprovado
+Weighted Avg.    0.740    0.253    0.747      0.740    0.741      0.483    0.792     0.793     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 20  8 |  a = fortemente_aprovado
+  5 17 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0.01 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          22               44      %
+Incorrectly Classified Instances        28               56      %
+Kappa statistic                         -0.12  
+Mean absolute error                      0.5   
+Root mean squared error                  0.6282
+Relative absolute error                104.8394 %
+Root relative squared error            130.9131 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.457    0.600    0.640      0.457    0.533      -0.131   0.595     0.820     fortemente_aprovado
+                 0.400    0.543    0.240      0.400    0.300      -0.131   0.595     0.399     fortemente_reprovado
+Weighted Avg.    0.440    0.583    0.520      0.440    0.463      -0.131   0.595     0.694     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 16 19 |  a = fortemente_aprovado
+  9  6 |  b = fortemente_reprovado
+

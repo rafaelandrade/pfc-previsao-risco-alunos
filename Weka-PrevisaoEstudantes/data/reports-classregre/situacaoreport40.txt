@@ -1,0 +1,247 @@
+
+=== Classifier model (full training set) ===
+
+Classification via Regression
+
+Classifier for class with index 0:
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+questao_25=1 <= 0.5 : LM1 (12/47.919%)
+questao_25=1 >  0.5 : 
+|   questao_5=1 <= 0.5 : 
+|   |   questao_10=0 <= 0.5 : 
+|   |   |   questao_8=1,0 <= 0.5 : 
+|   |   |   |   questao_14=-1,1 <= 0.5 : LM2 (4/0%)
+|   |   |   |   questao_14=-1,1 >  0.5 : LM3 (5/0%)
+|   |   |   questao_8=1,0 >  0.5 : LM4 (7/0%)
+|   |   questao_10=0 >  0.5 : LM5 (5/0%)
+|   questao_5=1 >  0.5 : LM6 (6/0%)
+
+LM num: 1
+situacao = 
+	0.2468 * questao_5=1 
+	- 0.1588 * questao_8=1,0 
+	+ 0.2573 * questao_10=0 
+	+ 0.481 * questao_13=-1 
+	+ 0.1389 * questao_22=-1 
+	+ 0.3686 * questao_25=1 
+	- 0.04
+
+LM num: 2
+situacao = 
+	0.1746 * questao_1=1,0 
+	+ 0.2792 * questao_5=1 
+	- 0.3353 * questao_8=1,0 
+	+ 0.3782 * questao_10=0 
+	+ 0.1187 * questao_13=-1 
+	+ 0.0826 * questao_14=-1,1 
+	+ 0.2851 * questao_22=-1 
+	+ 0.2369 * questao_25=1 
+	+ 0.1501 * questao_30=1 
+	+ 0.0864
+
+LM num: 3
+situacao = 
+	0.1746 * questao_1=1,0 
+	+ 0.2792 * questao_5=1 
+	- 0.3353 * questao_8=1,0 
+	+ 0.3782 * questao_10=0 
+	+ 0.1187 * questao_13=-1 
+	+ 0.0813 * questao_14=-1,1 
+	+ 0.2685 * questao_22=-1 
+	+ 0.2369 * questao_25=1 
+	+ 0.1501 * questao_30=1 
+	+ 0.1038
+
+LM num: 4
+situacao = 
+	0.2362 * questao_1=1,0 
+	+ 0.2792 * questao_5=1 
+	- 0.3415 * questao_8=1,0 
+	+ 0.3782 * questao_10=0 
+	+ 0.1187 * questao_13=-1 
+	+ 0.0616 * questao_14=-1,1 
+	+ 0.2474 * questao_22=-1 
+	+ 0.2369 * questao_25=1 
+	+ 0.2117 * questao_30=1 
+	+ 0.0129
+
+LM num: 5
+situacao = 
+	0.2138 * questao_1=1,0 
+	+ 0.2792 * questao_5=1 
+	- 0.3041 * questao_8=1,0 
+	+ 0.4256 * questao_10=0 
+	+ 0.1187 * questao_13=-1 
+	+ 0.2326 * questao_22=-1 
+	+ 0.2369 * questao_25=1 
+	+ 0.1871 * questao_30=1 
+	+ 0.1317
+
+LM num: 6
+situacao = 
+	0.1773 * questao_1=1,0 
+	+ 0.3653 * questao_5=1 
+	- 0.2708 * questao_8=1,0 
+	+ 0.3825 * questao_10=0 
+	+ 0.1187 * questao_13=-1 
+	+ 0.1973 * questao_22=-1 
+	+ 0.2369 * questao_25=1 
+	+ 0.1419 * questao_30=1 
+	+ 0.2297
+
+Number of Rules : 6
+
+Classifier for class with index 1:
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+questao_25=-1,0 <= 0.5 : 
+|   questao_5=0,-1 <= 0.5 : LM1 (6/0%)
+|   questao_5=0,-1 >  0.5 : 
+|   |   questao_10=-1,1 <= 0.5 : LM2 (5/0%)
+|   |   questao_10=-1,1 >  0.5 : 
+|   |   |   questao_8=-1 <= 0.5 : LM3 (7/0%)
+|   |   |   questao_8=-1 >  0.5 : 
+|   |   |   |   questao_14=0 <= 0.5 : LM4 (5/0%)
+|   |   |   |   questao_14=0 >  0.5 : LM5 (4/0%)
+questao_25=-1,0 >  0.5 : LM6 (12/47.919%)
+
+LM num: 1
+situacao = 
+	0.1773 * questao_1=-1 
+	+ 0.3653 * questao_5=0,-1 
+	- 0.2708 * questao_8=-1 
+	+ 0.3825 * questao_10=-1,1 
+	+ 0.1187 * questao_13=0,1 
+	+ 0.1973 * questao_22=1,0 
+	+ 0.2369 * questao_25=-1,0 
+	+ 0.1419 * questao_30=-1,0 
+	- 0.5788
+
+LM num: 2
+situacao = 
+	0.2138 * questao_1=-1 
+	+ 0.2792 * questao_5=0,-1 
+	- 0.3041 * questao_8=-1 
+	+ 0.4256 * questao_10=-1,1 
+	+ 0.1187 * questao_13=0,1 
+	+ 0.2326 * questao_22=1,0 
+	+ 0.2369 * questao_25=-1,0 
+	+ 0.1871 * questao_30=-1,0 
+	- 0.5215
+
+LM num: 3
+situacao = 
+	0.2362 * questao_1=-1 
+	+ 0.2792 * questao_5=0,-1 
+	- 0.3415 * questao_8=-1 
+	+ 0.3782 * questao_10=-1,1 
+	+ 0.1187 * questao_13=0,1 
+	+ 0.0616 * questao_14=0 
+	+ 0.2474 * questao_22=1,0 
+	+ 0.2369 * questao_25=-1,0 
+	+ 0.2117 * questao_30=-1,0 
+	- 0.4414
+
+LM num: 4
+situacao = 
+	0.1746 * questao_1=-1 
+	+ 0.2792 * questao_5=0,-1 
+	- 0.3353 * questao_8=-1 
+	+ 0.3782 * questao_10=-1,1 
+	+ 0.1187 * questao_13=0,1 
+	+ 0.0813 * questao_14=0 
+	+ 0.2685 * questao_22=1,0 
+	+ 0.2369 * questao_25=-1,0 
+	+ 0.1501 * questao_30=-1,0 
+	- 0.4561
+
+LM num: 5
+situacao = 
+	0.1746 * questao_1=-1 
+	+ 0.2792 * questao_5=0,-1 
+	- 0.3353 * questao_8=-1 
+	+ 0.3782 * questao_10=-1,1 
+	+ 0.1187 * questao_13=0,1 
+	+ 0.0826 * questao_14=0 
+	+ 0.2851 * questao_22=1,0 
+	+ 0.2369 * questao_25=-1,0 
+	+ 0.1501 * questao_30=-1,0 
+	- 0.4566
+
+LM num: 6
+situacao = 
+	0.2468 * questao_5=0,-1 
+	- 0.1588 * questao_8=-1 
+	+ 0.2573 * questao_10=-1,1 
+	+ 0.481 * questao_13=0,1 
+	+ 0.1389 * questao_22=1,0 
+	+ 0.3686 * questao_25=-1,0 
+	- 0.2937
+
+Number of Rules : 6
+
+
+
+Time taken to build model: 0.55 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          35               89.7436 %
+Incorrectly Classified Instances         4               10.2564 %
+Kappa statistic                          0.7839
+Mean absolute error                      0.189 
+Root mean squared error                  0.2678
+Relative absolute error                 38.9954 %
+Root relative squared error             54.443  %
+Total Number of Instances               39     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.957    0.188    0.880      0.957    0.917      0.789    0.981     0.988     fortemente_aprovado
+                 0.813    0.043    0.929      0.813    0.867      0.789    0.981     0.973     fortemente_reprovado
+Weighted Avg.    0.897    0.128    0.900      0.897    0.896      0.789    0.981     0.982     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 22  1 |  a = fortemente_aprovado
+  3 13 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0.01 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          24               61.5385 %
+Incorrectly Classified Instances        15               38.4615 %
+Kappa statistic                          0.2373
+Mean absolute error                      0.4102
+Root mean squared error                  0.5527
+Relative absolute error                 86.9957 %
+Root relative squared error            115.5348 %
+Total Number of Instances               39     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.577    0.308    0.789      0.577    0.667      0.254    0.643     0.753     fortemente_aprovado
+                 0.692    0.423    0.450      0.692    0.545      0.254    0.643     0.449     fortemente_reprovado
+Weighted Avg.    0.615    0.346    0.676      0.615    0.626      0.254    0.643     0.652     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 15 11 |  a = fortemente_aprovado
+  4  9 |  b = fortemente_reprovado
+

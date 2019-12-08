@@ -1,0 +1,105 @@
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                              Class
+Attribute       fortemente_aprovado fortemente_reprovado
+                             (0.56)               (0.44)
+=========================================================
+questao_0
+  1                              9.0                 12.0
+  0                              8.0                  3.0
+  -1                            14.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_1
+  1                             18.0                 14.0
+  0                              8.0                  3.0
+  -1                             5.0                  8.0
+  [total]                       31.0                 25.0
+
+questao_2
+  1                              9.0                 12.0
+  0                              7.0                  3.0
+  -1                            15.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_3
+  1                             10.0                 12.0
+  0                              7.0                  3.0
+  -1                            14.0                 10.0
+  [total]                       31.0                 25.0
+
+questao_4
+  1                             13.0                 16.0
+  0                              7.0                  3.0
+  -1                            11.0                  6.0
+  [total]                       31.0                 25.0
+
+questao_5
+  1                              9.0                  4.0
+  0                              7.0                  3.0
+  -1                            15.0                 18.0
+  [total]                       31.0                 25.0
+
+
+
+Time taken to build model: 0.39 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          33               66      %
+Incorrectly Classified Instances        17               34      %
+Kappa statistic                          0.339 
+Mean absolute error                      0.3887
+Root mean squared error                  0.4767
+Relative absolute error                 78.8322 %
+Root relative squared error             96.0247 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.536    0.182    0.789      0.536    0.638      0.362    0.738     0.744     fortemente_aprovado
+                 0.818    0.464    0.581      0.818    0.679      0.362    0.738     0.658     fortemente_reprovado
+Weighted Avg.    0.660    0.306    0.698      0.660    0.656      0.362    0.738     0.706     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 15 13 |  a = fortemente_aprovado
+  4 18 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          18               36      %
+Incorrectly Classified Instances        32               64      %
+Kappa statistic                         -0.2403
+Mean absolute error                      0.5694
+Root mean squared error                  0.6349
+Relative absolute error                119.3992 %
+Root relative squared error            132.3069 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.371    0.667    0.565      0.371    0.448      -0.271   0.306     0.610     fortemente_aprovado
+                 0.333    0.629    0.185      0.333    0.238      -0.271   0.306     0.232     fortemente_reprovado
+Weighted Avg.    0.360    0.655    0.451      0.360    0.385      -0.271   0.306     0.496     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 13 22 |  a = fortemente_aprovado
+ 10  5 |  b = fortemente_reprovado
+

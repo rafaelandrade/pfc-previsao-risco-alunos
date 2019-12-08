@@ -1,0 +1,129 @@
+
+=== Classifier model (full training set) ===
+
+Classification via Regression
+
+Classifier for class with index 0:
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+questao_25=1 <= 0.5 : LM1 (13/54.55%)
+questao_25=1 >  0.5 : LM2 (29/52.018%)
+
+LM num: 1
+situacao = 
+	0.2444 * questao_3=-1,0 
+	+ 0.1466 * questao_4=-1,0 
+	- 0.2932 * questao_5=0,1 
+	+ 0.1512 * questao_13=0,-1 
+	+ 0.1344 * questao_18=1 
+	+ 0.3088 * questao_25=1 
+	+ 0.1891 * questao_28=1 
+	- 0.2107 * questao_31=1 
+	+ 0.0233
+
+LM num: 2
+situacao = 
+	0.3367 * questao_13=0,-1 
+	+ 0.3541 * questao_18=1 
+	+ 0.2527 * questao_21=-1 
+	+ 0.1965 * questao_25=1 
+	+ 0.5889 * questao_28=1 
+	- 0.9944 * questao_31=1 
+	+ 0.6895
+
+Number of Rules : 2
+
+Classifier for class with index 1:
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+questao_25=0,-1 <= 0.5 : LM1 (29/52.018%)
+questao_25=0,-1 >  0.5 : LM2 (13/54.55%)
+
+LM num: 1
+situacao = 
+	0.3367 * questao_13=1 
+	+ 0.3541 * questao_18=0,-1 
+	+ 0.2527 * questao_21=0,1 
+	+ 0.1965 * questao_25=0,-1 
+	+ 0.5889 * questao_28=-1,0 
+	- 0.9944 * questao_31=-1,0 
+	- 0.4239
+
+LM num: 2
+situacao = 
+	0.2444 * questao_3=1 
+	+ 0.1466 * questao_4=1 
+	- 0.2932 * questao_5=-1 
+	+ 0.1512 * questao_13=1 
+	+ 0.1344 * questao_18=0,-1 
+	+ 0.3088 * questao_25=0,-1 
+	+ 0.1891 * questao_28=-1,0 
+	- 0.2107 * questao_31=-1,0 
+	+ 0.3062
+
+Number of Rules : 2
+
+
+
+Time taken to build model: 0.79 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          40               95.2381 %
+Incorrectly Classified Instances         2                4.7619 %
+Kappa statistic                          0.9041
+Mean absolute error                      0.2202
+Root mean squared error                  0.2773
+Relative absolute error                 44.9136 %
+Root relative squared error             56.0316 %
+Total Number of Instances               42     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.917    0.000    1.000      0.917    0.957      0.908    0.980     0.984     fortemente_aprovado
+                 1.000    0.083    0.900      1.000    0.947      0.908    0.980     0.967     fortemente_reprovado
+Weighted Avg.    0.952    0.036    0.957      0.952    0.953      0.908    0.980     0.977     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 22  2 |  a = fortemente_aprovado
+  0 18 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0.01 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          22               52.381  %
+Incorrectly Classified Instances        20               47.619  %
+Kappa statistic                          0.1667
+Mean absolute error                      0.4912
+Root mean squared error                  0.6241
+Relative absolute error                102.9115 %
+Root relative squared error            129.5843 %
+Total Number of Instances               42     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.357    0.143    0.833      0.357    0.500      0.224    0.557     0.733     fortemente_aprovado
+                 0.857    0.643    0.400      0.857    0.545      0.224    0.557     0.360     fortemente_reprovado
+Weighted Avg.    0.524    0.310    0.689      0.524    0.515      0.224    0.557     0.609     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 10 18 |  a = fortemente_aprovado
+  2 12 |  b = fortemente_reprovado
+

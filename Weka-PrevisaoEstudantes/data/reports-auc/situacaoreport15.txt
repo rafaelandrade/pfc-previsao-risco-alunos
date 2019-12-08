@@ -1,0 +1,1227 @@
+
+Options: -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a 
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    0.283602500380934
+    Node 2    -1.0888172458200247
+    Node 3    1.8267311552655847
+    Node 4    -1.1386777820502483
+    Node 5    0.20702403963917668
+    Node 6    0.931709011026001
+    Node 7    1.9409869835873308
+    Node 8    -3.5947041472212615
+    Node 9    1.0388037427434673
+    Node 10    -2.955079121401509
+    Node 11    -2.8517207512114813
+    Node 12    1.7029966136619679
+    Node 13    -1.3818324805701883
+    Node 14    -0.037799651439153106
+    Node 15    -1.524246316750739
+    Node 16    -0.541170759785414
+    Node 17    0.4087384519512394
+    Node 18    -1.475648054726026
+    Node 19    2.34211366402348
+    Node 20    0.4610103626301809
+    Node 21    -0.7451500941855839
+    Node 22    1.442885543094764
+    Node 23    1.993214083120206
+    Node 24    1.1262904845421318
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.27882951432707853
+    Node 2    1.0372576369265383
+    Node 3    -1.8044460566577285
+    Node 4    1.093131426183814
+    Node 5    -0.173404176883581
+    Node 6    -0.9099828918065553
+    Node 7    -1.9465951848297225
+    Node 8    3.5999422966621775
+    Node 9    -1.0307885899381903
+    Node 10    2.960262563627687
+    Node 11    2.8501398250412895
+    Node 12    -1.6634780475372808
+    Node 13    1.3966458650291504
+    Node 14    0.0499392692838552
+    Node 15    1.51303199576456
+    Node 16    0.5325644758334962
+    Node 17    -0.4589242818715218
+    Node 18    1.5025410533570536
+    Node 19    -2.361167254906707
+    Node 20    -0.4801942248351794
+    Node 21    0.7869319750241023
+    Node 22    -1.4381110004799416
+    Node 23    -2.004209674274986
+    Node 24    -1.1532963542073704
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.07073100210837986
+    Attrib questao_0=1    0.2505170569015259
+    Attrib questao_0=0    0.07577641336875772
+    Attrib questao_0=-1    -0.21594005734833155
+    Attrib questao_1=1    -0.1090819123017705
+    Attrib questao_1=0    0.1343652839841581
+    Attrib questao_1=-1    0.11751895002888522
+    Attrib questao_2=1    -0.23780635248235946
+    Attrib questao_2=0    0.15587486391657354
+    Attrib questao_2=-1    0.10682306881395942
+    Attrib questao_3=1    -0.24692177723634967
+    Attrib questao_3=0    0.16091546892099104
+    Attrib questao_3=-1    0.15129578128500068
+    Attrib questao_4=1    0.23797534264972206
+    Attrib questao_4=0    0.17853548229875918
+    Attrib questao_4=-1    -0.3806167362317565
+    Attrib questao_5=1    0.04372292039689049
+    Attrib questao_5=0    0.12018854175128825
+    Attrib questao_5=-1    -0.14824472412521092
+    Attrib questao_6=1    0.03214078391858195
+    Attrib questao_6=0    0.15717916602006196
+    Attrib questao_6=-1    -0.10293914337617037
+    Attrib questao_7=1    -0.06054886703280363
+    Attrib questao_7=0    0.15604028175378307
+    Attrib questao_7=-1    0.06581194102396493
+    Attrib questao_8=1    0.09366010810434353
+    Attrib questao_8=0    0.17414443056205245
+    Attrib questao_8=-1    -0.16638598238183652
+    Attrib questao_9=1    -0.4224128852217186
+    Attrib questao_9=0    0.3815102612193267
+    Attrib questao_9=-1    0.08180579689277555
+    Attrib questao_10=1    0.2737668898881627
+    Attrib questao_10=0    0.16594934303413442
+    Attrib questao_10=-1    -0.38113434294017634
+    Attrib questao_11=1    -0.7237334398365558
+    Attrib questao_11=0    0.2624924936198919
+    Attrib questao_11=-1    0.4635956825326621
+    Attrib questao_12=1    0.3767178437115064
+    Attrib questao_12=0    0.26934460115818426
+    Attrib questao_12=-1    -0.6110805183441306
+    Attrib questao_13=1    -0.45067276317902216
+    Attrib questao_13=0    0.3406077221669144
+    Attrib questao_13=-1    0.28275774847801755
+    Attrib questao_14=1    -0.1203717588348435
+    Attrib questao_14=0    0.23555150151191726
+    Attrib questao_14=-1    0.007272302940269044
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    0.10921839442454481
+    Attrib questao_0=1    -0.2157549160519148
+    Attrib questao_0=0    0.4348957988041516
+    Attrib questao_0=-1    -0.38177763798004977
+    Attrib questao_1=1    0.5761206261272788
+    Attrib questao_1=0    0.42584644385650633
+    Attrib questao_1=-1    -1.1759691729189554
+    Attrib questao_2=1    -0.5132598085865151
+    Attrib questao_2=0    0.1990313068954041
+    Attrib questao_2=-1    0.16755654606876724
+    Attrib questao_3=1    -0.11107502352751217
+    Attrib questao_3=0    0.2113984928463059
+    Attrib questao_3=-1    -0.2316603921155011
+    Attrib questao_4=1    -0.6582171249474389
+    Attrib questao_4=0    0.28400376268375904
+    Attrib questao_4=-1    0.31821723347378517
+    Attrib questao_5=1    0.21940136139608302
+    Attrib questao_5=0    0.277060212707694
+    Attrib questao_5=-1    -0.5479634236324991
+    Attrib questao_6=1    0.5159663641842949
+    Attrib questao_6=0    0.23930851432144973
+    Attrib questao_6=-1    -0.8563415938579794
+    Attrib questao_7=1    -0.24869439228917523
+    Attrib questao_7=0    0.25381845510501355
+    Attrib questao_7=-1    -0.00589043083019507
+    Attrib questao_8=1    -0.15473041717429198
+    Attrib questao_8=0    0.22953999866938596
+    Attrib questao_8=-1    -0.20494117394561637
+    Attrib questao_9=1    0.7502987143165076
+    Attrib questao_9=0    -0.24512133722339682
+    Attrib questao_9=-1    -0.5221836399816165
+    Attrib questao_10=1    -0.5949188133295712
+    Attrib questao_10=0    0.46827342652992454
+    Attrib questao_10=-1    0.08343126725980422
+    Attrib questao_11=1    -0.864497863151948
+    Attrib questao_11=0    0.08872207910882106
+    Attrib questao_11=-1    0.7336016071788447
+    Attrib questao_12=1    -0.2960456489781395
+    Attrib questao_12=0    -0.05965848678793351
+    Attrib questao_12=-1    0.2940304412491404
+    Attrib questao_13=1    -0.7421073347606462
+    Attrib questao_13=0    -0.05454247094021693
+    Attrib questao_13=-1    0.73423970098739
+    Attrib questao_14=1    0.6174064900132602
+    Attrib questao_14=0    -1.0300328284856706
+    Attrib questao_14=-1    0.3935824958551083
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.1159639330845328
+    Attrib questao_0=1    0.04960616556389642
+    Attrib questao_0=0    -0.0960474182398355
+    Attrib questao_0=-1    0.07816446385978047
+    Attrib questao_1=1    0.020749643193509124
+    Attrib questao_1=0    -0.043141953855975974
+    Attrib questao_1=-1    0.1780462000854644
+    Attrib questao_2=1    0.07994452423839034
+    Attrib questao_2=0    -7.602459055173452E-4
+    Attrib questao_2=-1    0.08898130333121483
+    Attrib questao_3=1    0.11938188426024526
+    Attrib questao_3=0    -0.026915524916370667
+    Attrib questao_3=-1    -0.0029956895678956747
+    Attrib questao_4=1    -0.4105039851982294
+    Attrib questao_4=0    -0.04769677045858998
+    Attrib questao_4=-1    0.5131089651085954
+    Attrib questao_5=1    -0.003412048776087236
+    Attrib questao_5=0    -0.04163081393326478
+    Attrib questao_5=-1    0.1966668557499356
+    Attrib questao_6=1    -3.799418201746196E-4
+    Attrib questao_6=0    -0.05611552711644748
+    Attrib questao_6=-1    0.11703509293476401
+    Attrib questao_7=1    0.09774731625800988
+    Attrib questao_7=0    -0.044373996620193694
+    Attrib questao_7=-1    0.11260663521626622
+    Attrib questao_8=1    0.371125569811201
+    Attrib questao_8=0    0.009876551897699455
+    Attrib questao_8=-1    -0.2379352524723145
+    Attrib questao_9=1    0.17143111941190906
+    Attrib questao_9=0    0.07208372221062778
+    Attrib questao_9=-1    -0.039120722431456555
+    Attrib questao_10=1    0.3993005520413026
+    Attrib questao_10=0    -0.23865463610718013
+    Attrib questao_10=-1    -0.040037105068078956
+    Attrib questao_11=1    -0.5081009215954804
+    Attrib questao_11=0    -0.23106779212782635
+    Attrib questao_11=-1    0.884241030596972
+    Attrib questao_12=1    -0.05977110366881951
+    Attrib questao_12=0    -0.22242631210059827
+    Attrib questao_12=-1    0.33113177456472487
+    Attrib questao_13=1    -0.32801588975237983
+    Attrib questao_13=0    -0.15658275130159938
+    Attrib questao_13=-1    0.6956671476074703
+    Attrib questao_14=1    -0.0715364954021583
+    Attrib questao_14=0    -0.06504835945017126
+    Attrib questao_14=-1    0.29663939080840607
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -0.19470152041181837
+    Attrib questao_0=1    0.04312621627904489
+    Attrib questao_0=0    0.031537152754883654
+    Attrib questao_0=-1    0.11276438125806952
+    Attrib questao_1=1    0.06683541002970507
+    Attrib questao_1=0    0.013695668647544342
+    Attrib questao_1=-1    0.13528737333303123
+    Attrib questao_2=1    -0.036096505331431696
+    Attrib questao_2=0    -0.0452515727590741
+    Attrib questao_2=-1    0.12808671094609844
+    Attrib questao_3=1    0.08021997431402897
+    Attrib questao_3=0    0.003315334635536203
+    Attrib questao_3=-1    0.047495062212294624
+    Attrib questao_4=1    0.0839288030820983
+    Attrib questao_4=0    -0.010392314874337078
+    Attrib questao_4=-1    0.10749041549283751
+    Attrib questao_5=1    0.3620652388705618
+    Attrib questao_5=0    0.013035407072539688
+    Attrib questao_5=-1    -0.16670717682006522
+    Attrib questao_6=1    0.3125497136558046
+    Attrib questao_6=0    -0.07448271541184746
+    Attrib questao_6=-1    -0.0806178815928917
+    Attrib questao_7=1    0.26010406823044985
+    Attrib questao_7=0    -0.06259642459105204
+    Attrib questao_7=-1    -0.11607054100144643
+    Attrib questao_8=1    -0.059716548280156295
+    Attrib questao_8=0    -0.03290960379915281
+    Attrib questao_8=-1    0.24104959753114225
+    Attrib questao_9=1    0.4016186174208781
+    Attrib questao_9=0    -0.15735481374954274
+    Attrib questao_9=-1    -0.041352466900700685
+    Attrib questao_10=1    -0.0401191331448685
+    Attrib questao_10=0    0.18310092243512047
+    Attrib questao_10=-1    0.07249126637656811
+    Attrib questao_11=1    0.22507230795702263
+    Attrib questao_11=0    0.02314237305593302
+    Attrib questao_11=-1    -0.17165758621435334
+    Attrib questao_12=1    -0.023685653198501605
+    Attrib questao_12=0    0.005606807179993707
+    Attrib questao_12=-1    0.19336973407522542
+    Attrib questao_13=1    0.0093211916081591
+    Attrib questao_13=0    -0.010699138324653102
+    Attrib questao_13=-1    0.22105039280785743
+    Attrib questao_14=1    0.028122918238754152
+    Attrib questao_14=0    0.033539532488230994
+    Attrib questao_14=-1    0.2033957372956523
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.28243691078744315
+    Attrib questao_0=1    -0.04144753103298825
+    Attrib questao_0=0    0.07253916176070152
+    Attrib questao_0=-1    0.19891917320500163
+    Attrib questao_1=1    -0.027025237910997403
+    Attrib questao_1=0    0.11730170998653475
+    Attrib questao_1=-1    0.27947135887212826
+    Attrib questao_2=1    0.06410158072706539
+    Attrib questao_2=0    -0.006995609341767447
+    Attrib questao_2=-1    0.23343280922910248
+    Attrib questao_3=1    0.03444130798703148
+    Attrib questao_3=0    0.03423359453817747
+    Attrib questao_3=-1    0.21877975890702528
+    Attrib questao_4=1    0.41508871365902505
+    Attrib questao_4=0    -0.0030237726035564536
+    Attrib questao_4=-1    -0.1502764592350033
+    Attrib questao_5=1    0.43077104090085416
+    Attrib questao_5=0    0.05228148629344344
+    Attrib questao_5=-1    -0.21260790310931962
+    Attrib questao_6=1    0.15932608672717616
+    Attrib questao_6=0    0.06046109632545442
+    Attrib questao_6=-1    0.06286525372184477
+    Attrib questao_7=1    0.354225896868397
+    Attrib questao_7=0    0.03954938944485703
+    Attrib questao_7=-1    -0.16206374726404038
+    Attrib questao_8=1    -0.10210828298968042
+    Attrib questao_8=0    0.011307653595927962
+    Attrib questao_8=-1    0.38040241389416085
+    Attrib questao_9=1    0.32278636282367335
+    Attrib questao_9=0    -0.1843899387446245
+    Attrib questao_9=-1    0.04254579305055725
+    Attrib questao_10=1    -0.0679652559105559
+    Attrib questao_10=0    0.08896904007350295
+    Attrib questao_10=-1    0.28219906051685517
+    Attrib questao_11=1    0.6471648865248035
+    Attrib questao_11=0    0.026976593933157468
+    Attrib questao_11=-1    -0.3616776547532155
+    Attrib questao_12=1    0.051301062166943544
+    Attrib questao_12=0    -0.1200670188600971
+    Attrib questao_12=-1    0.2691172224067249
+    Attrib questao_13=1    -0.13337262889090779
+    Attrib questao_13=0    -0.04984457197787108
+    Attrib questao_13=-1    0.4387596128458214
+    Attrib questao_14=1    0.03881529251341473
+    Attrib questao_14=0    0.08795281724278571
+    Attrib questao_14=-1    0.18657064842375795
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.014434777299732193
+    Attrib questao_0=1    -0.04307904893215804
+    Attrib questao_0=0    0.45800979366050587
+    Attrib questao_0=-1    -0.3913259203625572
+    Attrib questao_1=1    0.3058427023739268
+    Attrib questao_1=0    0.46793685052594713
+    Attrib questao_1=-1    -0.8380461133838513
+    Attrib questao_2=1    -0.7774463336740479
+    Attrib questao_2=0    0.2588232803516367
+    Attrib questao_2=-1    0.4469485747416928
+    Attrib questao_3=1    -0.49020338264137453
+    Attrib questao_3=0    0.2496881854690539
+    Attrib questao_3=-1    0.2533703985561555
+    Attrib questao_4=1    -0.8723259891247471
+    Attrib questao_4=0    0.24631877641842087
+    Attrib questao_4=-1    0.6138708028227755
+    Attrib questao_5=1    0.3487293816237043
+    Attrib questao_5=0    0.2532157580367197
+    Attrib questao_5=-1    -0.6199982667853166
+    Attrib questao_6=1    0.2629030970603351
+    Attrib questao_6=0    0.26572374999283643
+    Attrib questao_6=-1    -0.5711469445673116
+    Attrib questao_7=1    0.18402310438433048
+    Attrib questao_7=0    0.24002742009192202
+    Attrib questao_7=-1    -0.4440981863961166
+    Attrib questao_8=1    -0.510730628454571
+    Attrib questao_8=0    0.2900498509747348
+    Attrib questao_8=-1    0.2784930900069747
+    Attrib questao_9=1    0.23374504765276016
+    Attrib questao_9=0    -0.2009955765516887
+    Attrib questao_9=-1    -0.02851188704375682
+    Attrib questao_10=1    -0.235294379294524
+    Attrib questao_10=0    0.41911598004194045
+    Attrib questao_10=-1    -0.12795406736749165
+    Attrib questao_11=1    -0.5748869459027209
+    Attrib questao_11=0    0.1411334631345474
+    Attrib questao_11=-1    0.4793847320457593
+    Attrib questao_12=1    -1.0574421083656607
+    Attrib questao_12=0    0.10799010068352456
+    Attrib questao_12=-1    0.9233168912753521
+    Attrib questao_13=1    -0.5073804913445904
+    Attrib questao_13=0    0.07801496647422897
+    Attrib questao_13=-1    0.5323123511751283
+    Attrib questao_14=1    0.7817350725198999
+    Attrib questao_14=0    -0.744753326485387
+    Attrib questao_14=-1    0.010610018016751033
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -0.04746122394685762
+    Attrib questao_0=1    0.9730355259836986
+    Attrib questao_0=0    -0.01681544257904443
+    Attrib questao_0=-1    -0.9807195740829832
+    Attrib questao_1=1    -0.7142617320055269
+    Attrib questao_1=0    -0.07560728312475211
+    Attrib questao_1=-1    0.657047385533437
+    Attrib questao_2=1    -0.733622250023316
+    Attrib questao_2=0    0.1290779009215347
+    Attrib questao_2=-1    0.5957560811520644
+    Attrib questao_3=1    -1.072596648904683
+    Attrib questao_3=0    0.12423391518761309
+    Attrib questao_3=-1    0.8980389244284213
+    Attrib questao_4=1    1.3552316592391938
+    Attrib questao_4=0    0.16684760835804363
+    Attrib questao_4=-1    -1.5222391239857147
+    Attrib questao_5=1    -0.1171440881032122
+    Attrib questao_5=0    0.14425417134852092
+    Attrib questao_5=-1    0.0045116852994334785
+    Attrib questao_6=1    -0.004430405875153211
+    Attrib questao_6=0    0.11570102707249795
+    Attrib questao_6=-1    -0.2078503266981063
+    Attrib questao_7=1    0.16731311301283966
+    Attrib questao_7=0    0.16786826528322457
+    Attrib questao_7=-1    -0.3340347728091422
+    Attrib questao_8=1    0.5597894303429644
+    Attrib questao_8=0    0.14055505340669133
+    Attrib questao_8=-1    -0.6762828427645884
+    Attrib questao_9=1    -1.147177072698821
+    Attrib questao_9=0    0.9618813081421178
+    Attrib questao_9=-1    0.19040963305133832
+    Attrib questao_10=1    0.4079389007491416
+    Attrib questao_10=0    -0.5211687302866009
+    Attrib questao_10=-1    0.1575893718506833
+    Attrib questao_11=1    0.8514358453012012
+    Attrib questao_11=0    -0.5234259774622614
+    Attrib questao_11=-1    -0.3271555142887468
+    Attrib questao_12=1    0.2023543769494477
+    Attrib questao_12=0    -0.2100893996269907
+    Attrib questao_12=-1    -0.0036421053650361338
+    Attrib questao_13=1    0.5514791862700857
+    Attrib questao_13=0    -0.1817629076587693
+    Attrib questao_13=-1    -0.3726657379072023
+    Attrib questao_14=1    1.8674306455826464
+    Attrib questao_14=0    -1.2848820395239113
+    Attrib questao_14=-1    -0.46393660970353334
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    0.0516164959594746
+    Attrib questao_0=1    0.005688536862850766
+    Attrib questao_0=0    0.31170005387656785
+    Attrib questao_0=-1    -0.3847478921673965
+    Attrib questao_1=1    0.28201718673577036
+    Attrib questao_1=0    0.30360890249749983
+    Attrib questao_1=-1    -0.6518886745522081
+    Attrib questao_2=1    -0.35331887712647786
+    Attrib questao_2=0    0.2126590924605173
+    Attrib questao_2=-1    0.08192719857574281
+    Attrib questao_3=1    -0.31889472070254105
+    Attrib questao_3=0    0.17265410339072498
+    Attrib questao_3=-1    0.05169704427666551
+    Attrib questao_4=1    -0.5839806069305373
+    Attrib questao_4=0    0.2228407055080963
+    Attrib questao_4=-1    0.3268732455395879
+    Attrib questao_5=1    0.24016597450486077
+    Attrib questao_5=0    0.22416389792185862
+    Attrib questao_5=-1    -0.5026916030942092
+    Attrib questao_6=1    -0.1357194888475291
+    Attrib questao_6=0    0.22865082343367646
+    Attrib questao_6=-1    -0.13626658655551227
+    Attrib questao_7=1    -0.12841571339978233
+    Attrib questao_7=0    0.18622791067294672
+    Attrib questao_7=-1    -0.12809935104917503
+    Attrib questao_8=1    -0.45135124878151095
+    Attrib questao_8=0    0.1707734989801298
+    Attrib questao_8=-1    0.14239587379849877
+    Attrib questao_9=1    -0.026005232323645208
+    Attrib questao_9=0    -0.1488695857346229
+    Attrib questao_9=-1    0.0423577707359312
+    Attrib questao_10=1    -0.2869247463671468
+    Attrib questao_10=0    0.25951752916823656
+    Attrib questao_10=-1    0.04119378495253283
+    Attrib questao_11=1    -0.7018649954089029
+    Attrib questao_11=0    0.006819233729359639
+    Attrib questao_11=-1    0.5910108848936125
+    Attrib questao_12=1    -0.49904170154832633
+    Attrib questao_12=0    -0.02213130591187294
+    Attrib questao_12=-1    0.5557845268148791
+    Attrib questao_13=1    -0.5576733308680016
+    Attrib questao_13=0    -0.05227659090085837
+    Attrib questao_13=-1    0.48737206707900294
+    Attrib questao_14=1    0.41291270848361517
+    Attrib questao_14=0    -0.7691454291679543
+    Attrib questao_14=-1    0.25731890888208797
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -0.34239911778575366
+    Attrib questao_0=1    1.0524551756819596
+    Attrib questao_0=0    0.10324584174330796
+    Attrib questao_0=-1    -0.8524063676461281
+    Attrib questao_1=1    0.18870511965769632
+    Attrib questao_1=0    0.033361998032162325
+    Attrib questao_1=-1    0.03735168277890799
+    Attrib questao_2=1    -0.53732383855554
+    Attrib questao_2=0    0.22573085511734367
+    Attrib questao_2=-1    0.6279863776163765
+    Attrib questao_3=1    -0.09564746120141922
+    Attrib questao_3=0    0.19619806298912265
+    Attrib questao_3=-1    0.2399904772998848
+    Attrib questao_4=1    1.4720514956067086
+    Attrib questao_4=0    0.18950289124464295
+    Attrib questao_4=-1    -1.2857718263446785
+    Attrib questao_5=1    0.1929420086312989
+    Attrib questao_5=0    0.18159791774277154
+    Attrib questao_5=-1    -0.09081422988267532
+    Attrib questao_6=1    0.3323331364159282
+    Attrib questao_6=0    0.14349701299038878
+    Attrib questao_6=-1    -0.21413204402906025
+    Attrib questao_7=1    -0.151448151241654
+    Attrib questao_7=0    0.17937182856740122
+    Attrib questao_7=-1    0.27314297457281994
+    Attrib questao_8=1    0.008183671540552656
+    Attrib questao_8=0    0.2271525352560856
+    Attrib questao_8=-1    0.06715257969228533
+    Attrib questao_9=1    -0.6075786646367913
+    Attrib questao_9=0    0.30103371633757997
+    Attrib questao_9=-1    0.6647621327315903
+    Attrib questao_10=1    0.49477397357594516
+    Attrib questao_10=0    -0.6277784749603466
+    Attrib questao_10=-1    0.4453084056649848
+    Attrib questao_11=1    0.9969422427517195
+    Attrib questao_11=0    -0.564913855116267
+    Attrib questao_11=-1    -0.2099646321987584
+    Attrib questao_12=1    1.0360913030258072
+    Attrib questao_12=0    -0.48293819771254054
+    Attrib questao_12=-1    -0.2059469714292362
+    Attrib questao_13=1    -0.7193049551674302
+    Attrib questao_13=0    -0.5084845608302885
+    Attrib questao_13=-1    1.5624826378137926
+    Attrib questao_14=1    0.2830611596300744
+    Attrib questao_14=0    0.22010901694978724
+    Attrib questao_14=-1    -0.1829415476516875
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -0.014102096440371121
+    Attrib questao_0=1    0.7254852488238178
+    Attrib questao_0=0    -0.6303080151140101
+    Attrib questao_0=-1    0.0018381273551998343
+    Attrib questao_1=1    -1.3399422978197506
+    Attrib questao_1=0    -0.6408809264932798
+    Attrib questao_1=-1    1.9619572525762805
+    Attrib questao_2=1    0.7840665628064531
+    Attrib questao_2=0    -0.3291278910200339
+    Attrib questao_2=-1    -0.5069312297640314
+    Attrib questao_3=1    0.20957253155703834
+    Attrib questao_3=0    -0.2694401236801163
+    Attrib questao_3=-1    0.12120511568167162
+    Attrib questao_4=1    0.2781017884375904
+    Attrib questao_4=0    -0.3248951644509367
+    Attrib questao_4=-1    0.029922375505320314
+    Attrib questao_5=1    -0.5690159153271881
+    Attrib questao_5=0    -0.28037384827890843
+    Attrib questao_5=-1    0.8740176894428798
+    Attrib questao_6=1    0.005441823036018103
+    Attrib questao_6=0    -0.3004422033833887
+    Attrib questao_6=-1    0.3237013887909486
+    Attrib questao_7=1    0.46293417982107204
+    Attrib questao_7=0    -0.2753983905413626
+    Attrib questao_7=-1    -0.13187966044682392
+    Attrib questao_8=1    -0.18926182332620595
+    Attrib questao_8=0    -0.3236448972025331
+    Attrib questao_8=-1    0.5368164477125641
+    Attrib questao_9=1    -0.1446305310563466
+    Attrib questao_9=0    0.38965118506045393
+    Attrib questao_9=-1    -0.18253005577921105
+    Attrib questao_10=1    1.7041515541168668
+    Attrib questao_10=0    -0.6466267745167857
+    Attrib questao_10=-1    -1.078375196766681
+    Attrib questao_11=1    1.3038370902918164
+    Attrib questao_11=0    -0.09312041808939124
+    Attrib questao_11=-1    -1.2733433515596888
+    Attrib questao_12=1    0.05387386401344829
+    Attrib questao_12=0    0.09692115766115808
+    Attrib questao_12=-1    -0.12296132893555321
+    Attrib questao_13=1    0.1314234908924372
+    Attrib questao_13=0    0.021175350066528882
+    Attrib questao_13=-1    -0.14845696554667756
+    Attrib questao_14=1    0.1661038664987459
+    Attrib questao_14=0    0.656068805915121
+    Attrib questao_14=-1    -0.8167961641345984
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    0.1709668612546497
+    Attrib questao_0=1    -0.15709000162339096
+    Attrib questao_0=0    0.3570004456557531
+    Attrib questao_0=-1    -0.392551595488059
+    Attrib questao_1=1    0.5242954051398212
+    Attrib questao_1=0    0.3900127988977345
+    Attrib questao_1=-1    -1.061076651139548
+    Attrib questao_2=1    -0.37877393712583135
+    Attrib questao_2=0    0.2462154676973704
+    Attrib questao_2=-1    0.056884875283601775
+    Attrib questao_3=1    -0.3224073419274986
+    Attrib questao_3=0    0.17812235085949651
+    Attrib questao_3=-1    -0.07719822367219553
+    Attrib questao_4=1    -0.8294963384943712
+    Attrib questao_4=0    0.21066766566320838
+    Attrib questao_4=-1    0.38079712745349487
+    Attrib questao_5=1    0.47319455029682933
+    Attrib questao_5=0    0.2233228957352832
+    Attrib questao_5=-1    -0.8398691179039883
+    Attrib questao_6=1    -0.1650437170376136
+    Attrib questao_6=0    0.19940998216260586
+    Attrib questao_6=-1    -0.23565873884818117
+    Attrib questao_7=1    -0.17417118284882935
+    Attrib questao_7=0    0.234381293969958
+    Attrib questao_7=-1    -0.18139330920705005
+    Attrib questao_8=1    -0.5617344364518381
+    Attrib questao_8=0    0.24905969640608216
+    Attrib questao_8=-1    0.15397337312312806
+    Attrib questao_9=1    0.18736552442189885
+    Attrib questao_9=0    -0.29600930396211644
+    Attrib questao_9=-1    -0.0958838821485481
+    Attrib questao_10=1    -0.573908952957374
+    Attrib questao_10=0    0.280960641918803
+    Attrib questao_10=-1    0.15487189183728217
+    Attrib questao_11=1    -0.9172045941175976
+    Attrib questao_11=0    -0.03763916172838533
+    Attrib questao_11=-1    0.7906472996791373
+    Attrib questao_12=1    -0.5370555519692196
+    Attrib questao_12=0    -0.10374790996946401
+    Attrib questao_12=-1    0.5830044435776296
+    Attrib questao_13=1    -0.6699014472154133
+    Attrib questao_13=0    -0.09193435458061089
+    Attrib questao_13=-1    0.5949124617362631
+    Attrib questao_14=1    0.5987310894478621
+    Attrib questao_14=0    -1.1881949978265323
+    Attrib questao_14=-1    0.4859291896140861
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    0.11613047176705545
+    Attrib questao_0=1    0.5061614409456482
+    Attrib questao_0=0    -0.0011487597060809871
+    Attrib questao_0=-1    -0.6270239543502338
+    Attrib questao_1=1    0.37181720461661805
+    Attrib questao_1=0    -0.0011041405903596858
+    Attrib questao_1=-1    -0.46268750824805954
+    Attrib questao_2=1    -0.1482741780862791
+    Attrib questao_2=0    0.08865118241668857
+    Attrib questao_2=-1    -0.037302987762070354
+    Attrib questao_3=1    -0.17209115085303836
+    Attrib questao_3=0    0.10475182611352227
+    Attrib questao_3=-1    0.041198909040897604
+    Attrib questao_4=1    0.43967776941336495
+    Attrib questao_4=0    0.049291111901339765
+    Attrib questao_4=-1    -0.540338642528334
+    Attrib questao_5=1    -0.21096786143094373
+    Attrib questao_5=0    0.04762927347144433
+    Attrib questao_5=-1    0.06911111521640849
+    Attrib questao_6=1    -0.13413714317793562
+    Attrib questao_6=0    0.12567589337767232
+    Attrib questao_6=-1    -0.06417589695574641
+    Attrib questao_7=1    -0.21497023004908297
+    Attrib questao_7=0    0.12071509489221696
+    Attrib questao_7=-1    0.04909719607127577
+    Attrib questao_8=1    -0.38653789133526056
+    Attrib questao_8=0    0.11116929305372766
+    Attrib questao_8=-1    0.18601187909023023
+    Attrib questao_9=1    -0.19052452923781457
+    Attrib questao_9=0    0.16474560377502917
+    Attrib questao_9=-1    -0.019252201138880383
+    Attrib questao_10=1    -0.01629419229851609
+    Attrib questao_10=0    0.15437237827331227
+    Attrib questao_10=-1    -0.2546275501889854
+    Attrib questao_11=1    -0.15826657324507168
+    Attrib questao_11=0    0.20660033216245988
+    Attrib questao_11=-1    -0.10133373577770931
+    Attrib questao_12=1    0.4184571268112391
+    Attrib questao_12=0    0.3016214237971446
+    Attrib questao_12=-1    -0.7497071167311972
+    Attrib questao_13=1    -0.6800957273490775
+    Attrib questao_13=0    0.28261427655911975
+    Attrib questao_13=-1    0.3833812426331234
+    Attrib questao_14=1    -0.028984094473857438
+    Attrib questao_14=0    0.4422521584195215
+    Attrib questao_14=-1    -0.5092159778260942
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    -0.07826262775799656
+    Attrib questao_0=1    0.026096040502499057
+    Attrib questao_0=0    0.11970678314032009
+    Attrib questao_0=-1    0.013714077557400424
+    Attrib questao_1=1    0.2452249105583978
+    Attrib questao_1=0    0.06969187006476717
+    Attrib questao_1=-1    -0.2383853897399942
+    Attrib questao_2=1    -0.07154541877639574
+    Attrib questao_2=0    0.0463578412475232
+    Attrib questao_2=-1    0.23216078079709454
+    Attrib questao_3=1    -0.018345850356727
+    Attrib questao_3=0    0.025444010326608445
+    Attrib questao_3=-1    0.08197876771468038
+    Attrib questao_4=1    -0.10985944577825185
+    Attrib questao_4=0    0.013503123005574758
+    Attrib questao_4=-1    0.19764390078581703
+    Attrib questao_5=1    0.29938722739829654
+    Attrib questao_5=0    0.020044876271375675
+    Attrib questao_5=-1    -0.21747345081490765
+    Attrib questao_6=1    0.20227494818162908
+    Attrib questao_6=0    -5.418807485093529E-4
+    Attrib questao_6=-1    -0.12391519073391928
+    Attrib questao_7=1    0.03689868255434469
+    Attrib questao_7=0    -0.049967108230828776
+    Attrib questao_7=-1    0.09155113443758313
+    Attrib questao_8=1    -0.05877251838533719
+    Attrib questao_8=0    -0.004859125567374401
+    Attrib questao_8=-1    0.15963571850867894
+    Attrib questao_9=1    0.241457586868929
+    Attrib questao_9=0    -0.18131692715069478
+    Attrib questao_9=-1    0.05378834685052543
+    Attrib questao_10=1    -0.2096619017923479
+    Attrib questao_10=0    0.03328596448162788
+    Attrib questao_10=-1    0.2918515953114731
+    Attrib questao_11=1    -0.09443286812978155
+    Attrib questao_11=0    -0.13197203934745286
+    Attrib questao_11=-1    0.28373153666169687
+    Attrib questao_12=1    -0.06337191469910619
+    Attrib questao_12=0    -0.1828912569144623
+    Attrib questao_12=-1    0.2536109271242876
+    Attrib questao_13=1    -0.11207384203839559
+    Attrib questao_13=0    -0.15849297987979236
+    Attrib questao_13=-1    0.31596563175242276
+    Attrib questao_14=1    0.17244587020713717
+    Attrib questao_14=0    -0.2733069919117
+    Attrib questao_14=-1    0.2187121599502245
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    -0.3795488401220751
+    Attrib questao_0=1    0.4540703826209402
+    Attrib questao_0=0    0.16149874337290232
+    Attrib questao_0=-1    -0.16448107457577912
+    Attrib questao_1=1    -0.08766442785320368
+    Attrib questao_1=0    0.09173735449622158
+    Attrib questao_1=-1    0.39664434858793135
+    Attrib questao_2=1    -0.21405346577241122
+    Attrib questao_2=0    0.13926824407518096
+    Attrib questao_2=-1    0.41365853014300125
+    Attrib questao_3=1    -0.06209212619591672
+    Attrib questao_3=0    0.20976231485416175
+    Attrib questao_3=-1    0.3018055733543139
+    Attrib questao_4=1    0.8060757980690637
+    Attrib questao_4=0    0.19798785916646788
+    Attrib questao_4=-1    -0.5043982086899069
+    Attrib questao_5=1    0.2643448374251765
+    Attrib questao_5=0    0.20976868527796144
+    Attrib questao_5=-1    -0.0010287844042485437
+    Attrib questao_6=1    0.3478302207321282
+    Attrib questao_6=0    0.14207385103860215
+    Attrib questao_6=-1    -0.08863861310396651
+    Attrib questao_7=1    0.06413209708507596
+    Attrib questao_7=0    0.1502086534104436
+    Attrib questao_7=-1    0.22499930521075368
+    Attrib questao_8=1    0.27244712192562004
+    Attrib questao_8=0    0.18554563109039612
+    Attrib questao_8=-1    -0.03910215962737731
+    Attrib questao_9=1    -0.4595331651259802
+    Attrib questao_9=0    0.3888684851672913
+    Attrib questao_9=-1    0.461742101764647
+    Attrib questao_10=1    0.4466595002877545
+    Attrib questao_10=0    -0.2533688952402575
+    Attrib questao_10=-1    0.2948729998015695
+    Attrib questao_11=1    -0.3544877935135459
+    Attrib questao_11=0    -0.21451581618886703
+    Attrib questao_11=-1    0.9125648633641479
+    Attrib questao_12=1    0.6361764009429857
+    Attrib questao_12=0    -0.14698866669969052
+    Attrib questao_12=-1    0.03748104733371677
+    Attrib questao_13=1    -0.44537461687610086
+    Attrib questao_13=0    -0.18130857322339466
+    Attrib questao_13=-1    0.9558745823610519
+    Attrib questao_14=1    -0.058818080791343874
+    Attrib questao_14=0    0.25484889218859047
+    Attrib questao_14=-1    0.26956929875474206
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    0.006518599439629959
+    Attrib questao_0=1    -0.18065558506358875
+    Attrib questao_0=0    0.10475737546693521
+    Attrib questao_0=-1    0.10257402873981906
+    Attrib questao_1=1    0.07839734370163395
+    Attrib questao_1=0    0.06591159674088083
+    Attrib questao_1=-1    -0.06969148091931236
+    Attrib questao_2=1    0.14917924253762954
+    Attrib questao_2=0    0.12240624165275746
+    Attrib questao_2=-1    -0.1982635331210091
+    Attrib questao_3=1    0.12151927438868226
+    Attrib questao_3=0    0.04889756889203735
+    Attrib questao_3=-1    -0.21924938834078683
+    Attrib questao_4=1    -0.44480222665552915
+    Attrib questao_4=0    0.05127908487273783
+    Attrib questao_4=-1    0.35057337110022835
+    Attrib questao_5=1    -0.09323669541937621
+    Attrib questao_5=0    0.05735481086261507
+    Attrib questao_5=-1    0.04831107611184346
+    Attrib questao_6=1    -0.16553545978697132
+    Attrib questao_6=0    0.0530459637160937
+    Attrib questao_6=-1    0.14624856586235785
+    Attrib questao_7=1    -0.06695231258280306
+    Attrib questao_7=0    0.07120246675678917
+    Attrib questao_7=-1    -0.021175472904843385
+    Attrib questao_8=1    0.0878750914140453
+    Attrib questao_8=0    0.06711758206403971
+    Attrib questao_8=-1    -0.1745211313409082
+    Attrib questao_9=1    0.11825802811988045
+    Attrib questao_9=0    0.1066478579434611
+    Attrib questao_9=-1    -0.22439943853866212
+    Attrib questao_10=1    0.12472668969693085
+    Attrib questao_10=0    0.1097370707006831
+    Attrib questao_10=-1    -0.21321487517984195
+    Attrib questao_11=1    -0.448113316238224
+    Attrib questao_11=0    0.1901391293976456
+    Attrib questao_11=-1    0.22525091459828572
+    Attrib questao_12=1    -0.18991553471078157
+    Attrib questao_12=0    0.18767108101861057
+    Attrib questao_12=-1    0.0014574734685027428
+    Attrib questao_13=1    -0.2669939506406299
+    Attrib questao_13=0    0.1284966127734251
+    Attrib questao_13=-1    0.08472864982284124
+    Attrib questao_14=1    0.03248347098857359
+    Attrib questao_14=0    -0.19601365392742545
+    Attrib questao_14=-1    0.07323963019748363
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    -0.011653128079632182
+    Attrib questao_0=1    -0.0154958365660037
+    Attrib questao_0=0    0.27951766497866126
+    Attrib questao_0=-1    -0.2593921606765793
+    Attrib questao_1=1    0.06387567062692978
+    Attrib questao_1=0    0.25068231468852303
+    Attrib questao_1=-1    -0.2778222141595652
+    Attrib questao_2=1    -0.33058232449000385
+    Attrib questao_2=0    0.1803700932198452
+    Attrib questao_2=-1    0.14816929881653462
+    Attrib questao_3=1    -0.1017293496761404
+    Attrib questao_3=0    0.11705990749058418
+    Attrib questao_3=-1    0.054472729921328476
+    Attrib questao_4=1    -0.36044141047745415
+    Attrib questao_4=0    0.16376522153810552
+    Attrib questao_4=-1    0.23877337136442614
+    Attrib questao_5=1    0.37609417477213103
+    Attrib questao_5=0    0.1020621246346429
+    Attrib questao_5=-1    -0.47955185280372475
+    Attrib questao_6=1    0.3580841830256123
+    Attrib questao_6=0    0.14701436922922895
+    Attrib questao_6=-1    -0.5307235173657728
+    Attrib questao_7=1    0.09720881421488779
+    Attrib questao_7=0    0.11810597690032101
+    Attrib questao_7=-1    -0.27251787184151244
+    Attrib questao_8=1    -0.08640877139469466
+    Attrib questao_8=0    0.1977235404446478
+    Attrib questao_8=-1    -0.011811217614697651
+    Attrib questao_9=1    0.46459341536579596
+    Attrib questao_9=0    -0.08001255357833166
+    Attrib questao_9=-1    -0.2713323001505047
+    Attrib questao_10=1    -0.17505626237619198
+    Attrib questao_10=0    0.23318275530723787
+    Attrib questao_10=-1    -0.004175816230775498
+    Attrib questao_11=1    -0.151483388018988
+    Attrib questao_11=0    0.07104141441369334
+    Attrib questao_11=-1    0.05862862871783268
+    Attrib questao_12=1    -0.19108893857343057
+    Attrib questao_12=0    -0.07243993122263773
+    Attrib questao_12=-1    0.2550283611025728
+    Attrib questao_13=1    -0.33006815377996
+    Attrib questao_13=0    -0.03719534132167953
+    Attrib questao_13=-1    0.4233474427681804
+    Attrib questao_14=1    0.21656729125513813
+    Attrib questao_14=0    -0.35105877462445456
+    Attrib questao_14=-1    0.13294433002044262
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    -0.0736733564767724
+    Attrib questao_0=1    0.20374674825223285
+    Attrib questao_0=0    0.11812337902434492
+    Attrib questao_0=-1    -0.30466813117429165
+    Attrib questao_1=1    0.12019181076704286
+    Attrib questao_1=0    0.05449366868811084
+    Attrib questao_1=-1    -0.1594724981736105
+    Attrib questao_2=1    -0.11748687907404914
+    Attrib questao_2=0    0.1854550153943032
+    Attrib questao_2=-1    0.01425485993458489
+    Attrib questao_3=1    -0.0998489532693589
+    Attrib questao_3=0    0.189024106059618
+    Attrib questao_3=-1    -0.010644624410956767
+    Attrib questao_4=1    0.3057122321855931
+    Attrib questao_4=0    0.1118098730362403
+    Attrib questao_4=-1    -0.36702340609105877
+    Attrib questao_5=1    -0.029272769044240744
+    Attrib questao_5=0    0.12045930570346168
+    Attrib questao_5=-1    -0.10977074311557625
+    Attrib questao_6=1    -0.15328717916473567
+    Attrib questao_6=0    0.11350344875577682
+    Attrib questao_6=-1    0.0669452349190094
+    Attrib questao_7=1    -0.04204628196381212
+    Attrib questao_7=0    0.17990810146399838
+    Attrib questao_7=-1    -0.05430996005506857
+    Attrib questao_8=1    -0.14700374387312803
+    Attrib questao_8=0    0.1493842287387661
+    Attrib questao_8=-1    0.02867904192907189
+    Attrib questao_9=1    -0.3049546227607777
+    Attrib questao_9=0    0.22351866960094047
+    Attrib questao_9=-1    0.0711731043684874
+    Attrib questao_10=1    0.07966375852037887
+    Attrib questao_10=0    0.25041265358347253
+    Attrib questao_10=-1    -0.38424308271586954
+    Attrib questao_11=1    -0.8304259060599366
+    Attrib questao_11=0    0.3497818792074377
+    Attrib questao_11=-1    0.45753841228013215
+    Attrib questao_12=1    0.4522766519382809
+    Attrib questao_12=0    0.45737750022506
+    Attrib questao_12=-1    -0.8937175043420407
+    Attrib questao_13=1    -0.9034295609589874
+    Attrib questao_13=0    0.36288456504066685
+    Attrib questao_13=-1    0.5057748225270051
+    Attrib questao_14=1    -0.24359960887705845
+    Attrib questao_14=0    0.5475224535993436
+    Attrib questao_14=-1    -0.34298543105640894
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    -0.12150098870307513
+    Attrib questao_0=1    0.3426323747951294
+    Attrib questao_0=0    0.018593350750954276
+    Attrib questao_0=-1    -0.27178932833555103
+    Attrib questao_1=1    0.300934624898437
+    Attrib questao_1=0    0.0014267587606230385
+    Attrib questao_1=-1    -0.22176286464945097
+    Attrib questao_2=1    -0.305952731207024
+    Attrib questao_2=0    -0.0022118280592861293
+    Attrib questao_2=-1    0.485561744503156
+    Attrib questao_3=1    -0.195717635279697
+    Attrib questao_3=0    -0.06270950457029952
+    Attrib questao_3=-1    0.3463023328150152
+    Attrib questao_4=1    0.8440459197873975
+    Attrib questao_4=0    -0.08571430943564555
+    Attrib questao_4=-1    -0.6767046456382219
+    Attrib questao_5=1    0.42678791687384715
+    Attrib questao_5=0    -0.018783982417982126
+    Attrib questao_5=-1    -0.28125803076777317
+    Attrib questao_6=1    0.42146436442364416
+    Attrib questao_6=0    -0.03858949945698295
+    Attrib questao_6=-1    -0.24637545683171305
+    Attrib questao_7=1    -0.16580799246639893
+    Attrib questao_7=0    -0.04935659288687236
+    Attrib questao_7=-1    0.3094779136282683
+    Attrib questao_8=1    -0.6941376463885259
+    Attrib questao_8=0    -0.02499574738328284
+    Attrib questao_8=-1    0.7753145382039355
+    Attrib questao_9=1    0.09358720260223803
+    Attrib questao_9=0    -0.3220685117428209
+    Attrib questao_9=-1    0.2530200268638987
+    Attrib questao_10=1    -0.6030517464830588
+    Attrib questao_10=0    -0.19819833990923935
+    Attrib questao_10=-1    0.888370814653345
+    Attrib questao_11=1    1.1387918579166973
+    Attrib questao_11=0    -0.27017662191986663
+    Attrib questao_11=-1    -0.7794903090933714
+    Attrib questao_12=1    0.37763788074975896
+    Attrib questao_12=0    -0.43792879714687066
+    Attrib questao_12=-1    0.1872101816040176
+    Attrib questao_13=1    0.5807208521316064
+    Attrib questao_13=0    -0.4105341474646817
+    Attrib questao_13=-1    -0.09550870146777189
+    Attrib questao_14=1    0.23808748146051195
+    Attrib questao_14=0    -0.11723725045594803
+    Attrib questao_14=-1    -0.020051150239567866
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    -0.22943467440167628
+    Attrib questao_0=1    -0.0027146171475529745
+    Attrib questao_0=0    0.026523743660947167
+    Attrib questao_0=-1    0.13437050625392896
+    Attrib questao_1=1    -0.14899766552657867
+    Attrib questao_1=0    0.06604699324070179
+    Attrib questao_1=-1    0.2980491291512862
+    Attrib questao_2=1    -0.0235124628733793
+    Attrib questao_2=0    0.0010807784270511081
+    Attrib questao_2=-1    0.2065124034392337
+    Attrib questao_3=1    0.06535104821358664
+    Attrib questao_3=0    0.02372954789475821
+    Attrib questao_3=-1    0.17027060788645287
+    Attrib questao_4=1    0.1327303374842335
+    Attrib questao_4=0    -0.042064118444586254
+    Attrib questao_4=-1    0.10047444362574205
+    Attrib questao_5=1    0.3418104156249634
+    Attrib questao_5=0    -0.011554131270022196
+    Attrib questao_5=-1    -0.0753261537373156
+    Attrib questao_6=1    0.19683578896733636
+    Attrib questao_6=0    0.03467099166545844
+    Attrib questao_6=-1    0.01020378549470551
+    Attrib questao_7=1    0.3724275193490377
+    Attrib questao_7=0    0.023972473114883708
+    Attrib questao_7=-1    -0.10176166126270965
+    Attrib questao_8=1    -0.04015628859002529
+    Attrib questao_8=0    -0.03133761210309487
+    Attrib questao_8=-1    0.25162548768927945
+    Attrib questao_9=1    0.330760998221926
+    Attrib questao_9=0    -0.09793260413953679
+    Attrib questao_9=-1    0.040668360006477194
+    Attrib questao_10=1    0.0645300153263993
+    Attrib questao_10=0    0.13345964261264198
+    Attrib questao_10=-1    0.08363964496296769
+    Attrib questao_11=1    0.4431344275595274
+    Attrib questao_11=0    -0.014084673790464327
+    Attrib questao_11=-1    -0.26972011871062385
+    Attrib questao_12=1    -0.06359774804668815
+    Attrib questao_12=0    -0.04160253492740581
+    Attrib questao_12=-1    0.22920916171242653
+    Attrib questao_13=1    -0.07908847842015447
+    Attrib questao_13=0    -0.027701589005452023
+    Attrib questao_13=-1    0.2932699962944738
+    Attrib questao_14=1    -0.03455127642750638
+    Attrib questao_14=0    0.20921491884994922
+    Attrib questao_14=-1    0.049059080094822245
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    -0.15658751928128353
+    Attrib questao_0=1    0.06831386843971672
+    Attrib questao_0=0    -6.241531591121322E-4
+    Attrib questao_0=-1    0.12334382017936968
+    Attrib questao_1=1    0.11193062447591039
+    Attrib questao_1=0    -0.012736111993698838
+    Attrib questao_1=-1    0.07347033546321056
+    Attrib questao_2=1    0.13317355409037457
+    Attrib questao_2=0    -0.012565081229607472
+    Attrib questao_2=-1    0.02373248530975336
+    Attrib questao_3=1    0.2292381202849791
+    Attrib questao_3=0    4.7898706930892985E-4
+    Attrib questao_3=-1    -0.078627385256236
+    Attrib questao_4=1    -0.21929813757226954
+    Attrib questao_4=0    -0.06353415537647092
+    Attrib questao_4=-1    0.42998204197754875
+    Attrib questao_5=1    -0.0369179122551846
+    Attrib questao_5=0    -0.046744903834030564
+    Attrib questao_5=-1    0.09884667624592618
+    Attrib questao_6=1    0.08392517131560169
+    Attrib questao_6=0    -0.05178992339753757
+    Attrib questao_6=-1    0.04074412632181694
+    Attrib questao_7=1    -0.04007831610611686
+    Attrib questao_7=0    -0.0634780237517078
+    Attrib questao_7=-1    0.09266225989400667
+    Attrib questao_8=1    0.25568408239467266
+    Attrib questao_8=0    -0.06810452793506319
+    Attrib questao_8=-1    -0.03889161888947316
+    Attrib questao_9=1    0.04638425260180828
+    Attrib questao_9=0    0.037469329144277766
+    Attrib questao_9=-1    0.058865478848393236
+    Attrib questao_10=1    0.24634678970604634
+    Attrib questao_10=0    -0.25035970280429176
+    Attrib questao_10=-1    0.07410963509815123
+    Attrib questao_11=1    -0.3276984555947881
+    Attrib questao_11=0    -0.15762978553614834
+    Attrib questao_11=-1    0.7122872898268062
+    Attrib questao_12=1    0.023830880519161424
+    Attrib questao_12=0    -0.15701880683423233
+    Attrib questao_12=-1    0.25356424479886797
+    Attrib questao_13=1    -0.22605874600515627
+    Attrib questao_13=0    -0.18803422129576194
+    Attrib questao_13=-1    0.530365387806438
+    Attrib questao_14=1    0.007684043300839273
+    Attrib questao_14=0    -0.10736554896016934
+    Attrib questao_14=-1    0.23292596583167047
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    -0.19148915496305435
+    Attrib questao_0=1    0.203202309455278
+    Attrib questao_0=0    0.07783308677008119
+    Attrib questao_0=-1    -0.09243554201967698
+    Attrib questao_1=1    0.15544613290981232
+    Attrib questao_1=0    0.07154703180833619
+    Attrib questao_1=-1    0.037108565936797656
+    Attrib questao_2=1    0.10402170089358187
+    Attrib questao_2=0    -0.02581080887509365
+    Attrib questao_2=-1    0.14141717592634304
+    Attrib questao_3=1    0.1679760854786818
+    Attrib questao_3=0    -0.03967783180972878
+    Attrib questao_3=-1    0.10247752073787558
+    Attrib questao_4=1    0.6587693157438801
+    Attrib questao_4=0    -0.06600180614616545
+    Attrib questao_4=-1    -0.4292171426085802
+    Attrib questao_5=1    0.35560070367486024
+    Attrib questao_5=0    -0.10393103494565144
+    Attrib questao_5=-1    -0.11605179086210202
+    Attrib questao_6=1    0.4911303173347791
+    Attrib questao_6=0    -0.019765089498033125
+    Attrib questao_6=-1    -0.2260085039877603
+    Attrib questao_7=1    0.31735760633266213
+    Attrib questao_7=0    -0.02301624961313325
+    Attrib questao_7=-1    -0.00442407813712346
+    Attrib questao_8=1    -0.36864644757765297
+    Attrib questao_8=0    -0.06629583566156343
+    Attrib questao_8=-1    0.5715734915065843
+    Attrib questao_9=1    0.44758056685188413
+    Attrib questao_9=0    -0.32515555934245427
+    Attrib questao_9=-1    0.07883167767447972
+    Attrib questao_10=1    -0.2716098209217798
+    Attrib questao_10=0    -4.393379863166375E-4
+    Attrib questao_10=-1    0.47104098606033395
+    Attrib questao_11=1    0.9288910960099401
+    Attrib questao_11=0    -0.15522610508840917
+    Attrib questao_11=-1    -0.5986343260118375
+    Attrib questao_12=1    0.12792652494945805
+    Attrib questao_12=0    -0.18148087912835584
+    Attrib questao_12=-1    0.33614867353991623
+    Attrib questao_13=1    -0.009307388463250762
+    Attrib questao_13=0    -0.1741135243441326
+    Attrib questao_13=-1    0.4317279685263761
+    Attrib questao_14=1    0.38282870186198736
+    Attrib questao_14=0    -0.32816888980115305
+    Attrib questao_14=-1    0.11147682646557752
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    0.1259967164366877
+    Attrib questao_0=1    -0.3061417941179905
+    Attrib questao_0=0    0.4343807867345838
+    Attrib questao_0=-1    -0.2996386614639017
+    Attrib questao_1=1    0.6759055482948974
+    Attrib questao_1=0    0.473847646398612
+    Attrib questao_1=-1    -1.27936977110301
+    Attrib questao_2=1    -0.4736865452523079
+    Attrib questao_2=0    0.2164039369145208
+    Attrib questao_2=-1    0.055367889913676145
+    Attrib questao_3=1    -0.20618976349789847
+    Attrib questao_3=0    0.2413834097333612
+    Attrib questao_3=-1    -0.2318069748180703
+    Attrib questao_4=1    -0.738148377556596
+    Attrib questao_4=0    0.2451898498912834
+    Attrib questao_4=-1    0.3649901485613772
+    Attrib questao_5=1    0.2023340475907578
+    Attrib questao_5=0    0.22315883225958666
+    Attrib questao_5=-1    -0.5248364445218636
+    Attrib questao_6=1    -0.027783977232264355
+    Attrib questao_6=0    0.20454252190652755
+    Attrib questao_6=-1    -0.35333944066059403
+    Attrib questao_7=1    -0.4696576147986
+    Attrib questao_7=0    0.24688787735389967
+    Attrib questao_7=-1    0.10428487882871001
+    Attrib questao_8=1    -0.41355947711740854
+    Attrib questao_8=0    0.20221488939826915
+    Attrib questao_8=-1    0.09859395351238553
+    Attrib questao_9=1    0.37986238875397305
+    Attrib questao_9=0    -0.2862884386913651
+    Attrib questao_9=-1    -0.2997557706476693
+    Attrib questao_10=1    -0.6758718489596326
+    Attrib questao_10=0    0.29953847667406625
+    Attrib questao_10=-1    0.2432910031982564
+    Attrib questao_11=1    -1.3126089704278778
+    Attrib questao_11=0    -0.03971612950827941
+    Attrib questao_11=-1    1.091066644513165
+    Attrib questao_12=1    -0.30938973634617445
+    Attrib questao_12=0    -0.1497400212600943
+    Attrib questao_12=-1    0.2360364498055434
+    Attrib questao_13=1    -0.7137510618118555
+    Attrib questao_13=0    -0.14712573263755815
+    Attrib questao_13=-1    0.7662738873108073
+    Attrib questao_14=1    0.6995264066625063
+    Attrib questao_14=0    -1.2910490850913705
+    Attrib questao_14=-1    0.4163570199622466
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    -0.08893250409825451
+    Attrib questao_0=1    0.21318695574944138
+    Attrib questao_0=0    -0.035008705903787
+    Attrib questao_0=-1    -0.06280840322689835
+    Attrib questao_1=1    0.13154393855028032
+    Attrib questao_1=0    0.023728550454571784
+    Attrib questao_1=-1    0.015028341013077977
+    Attrib questao_2=1    0.011804754224487025
+    Attrib questao_2=0    -0.04588060230883192
+    Attrib questao_2=-1    0.23518005563486308
+    Attrib questao_3=1    0.08103084658454301
+    Attrib questao_3=0    -0.12421565167952603
+    Attrib questao_3=-1    0.17074579530938738
+    Attrib questao_4=1    0.606200810702885
+    Attrib questao_4=0    -0.055109368294322995
+    Attrib questao_4=-1    -0.41205966191184745
+    Attrib questao_5=1    0.35505580549192733
+    Attrib questao_5=0    -0.05414775574434016
+    Attrib questao_5=-1    -0.12660308524342714
+    Attrib questao_6=1    0.36543577844072245
+    Attrib questao_6=0    -0.11314401340391284
+    Attrib questao_6=-1    -0.20327603743087924
+    Attrib questao_7=1    0.14832784776305638
+    Attrib questao_7=0    -0.07341275078932177
+    Attrib questao_7=-1    0.04777133984654383
+    Attrib questao_8=1    -0.34584795430469484
+    Attrib questao_8=0    -0.032529097133579495
+    Attrib questao_8=-1    0.4907984672479471
+    Attrib questao_9=1    0.2457315444599988
+    Attrib questao_9=0    -0.3036071177644007
+    Attrib questao_9=-1    0.16231243727962966
+    Attrib questao_10=1    -0.31659461278025164
+    Attrib questao_10=0    -0.003256989824621586
+    Attrib questao_10=-1    0.5012611365083056
+    Attrib questao_11=1    0.7443818040276048
+    Attrib questao_11=0    -0.12981911222580375
+    Attrib questao_11=-1    -0.4611167109787777
+    Attrib questao_12=1    0.16047052920725208
+    Attrib questao_12=0    -0.24525536899778141
+    Attrib questao_12=-1    0.14784690063887532
+    Attrib questao_13=1    0.03358992045117429
+    Attrib questao_13=0    -0.210837949426074
+    Attrib questao_13=-1    0.296992840905323
+    Attrib questao_14=1    0.22019674557501626
+    Attrib questao_14=0    -0.17237866673923133
+    Attrib questao_14=-1    0.0973411109962302
+Class fortemente_aprovado
+    Input
+    Node 0
+Class fortemente_reprovado
+    Input
+    Node 1
+
+
+Time taken to build model: 1.35 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          49               98      %
+Incorrectly Classified Instances         1                2      %
+Kappa statistic                          0.9592
+Mean absolute error                      0.0357
+Root mean squared error                  0.1195
+Relative absolute error                  7.2442 %
+Root relative squared error             24.0774 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.045    0.966      1.000    0.982      0.960    0.998     0.998     fortemente_aprovado
+                 0.955    0.000    1.000      0.955    0.977      0.960    0.998     0.996     fortemente_reprovado
+Weighted Avg.    0.980    0.025    0.981      0.980    0.980      0.960    0.998     0.997     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 28  0 |  a = fortemente_aprovado
+  1 21 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          18               36      %
+Incorrectly Classified Instances        32               64      %
+Kappa statistic                         -0.1679
+Mean absolute error                      0.6252
+Root mean squared error                  0.7503
+Relative absolute error                131.0962 %
+Root relative squared error            156.3629 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.314    0.533    0.579      0.314    0.407      -0.207   0.390     0.664     fortemente_aprovado
+                 0.467    0.686    0.226      0.467    0.304      -0.207   0.390     0.290     fortemente_reprovado
+Weighted Avg.    0.360    0.579    0.473      0.360    0.376      -0.207   0.390     0.551     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 11 24 |  a = fortemente_aprovado
+  8  7 |  b = fortemente_reprovado
+

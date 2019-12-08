@@ -1,0 +1,237 @@
+
+Options: -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a 
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -1.0514902120006788
+    Node 2    4.37204936054422
+    Node 3    1.2384408799230404
+    Node 4    -5.7825641627666124
+    Node 5    -1.761476238320986
+    Node 6    -0.6090399138522421
+    Node 7    -0.3041314371655071
+    Node 8    -0.3841915968145441
+    Node 9    4.27284634725645
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    1.0524291867398996
+    Node 2    -4.3752873917536865
+    Node 3    -1.2378105385610716
+    Node 4    5.786065200078169
+    Node 5    1.7611276591434255
+    Node 6    0.6030314716419682
+    Node 7    0.2694352810655693
+    Node 8    0.42583272976155706
+    Node 9    -4.2750977501191585
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    0.6018002029543753
+    Attrib questao_0=1    -3.031669649103412
+    Attrib questao_0=0    0.19021487523128322
+    Attrib questao_0=-1    2.148967136342655
+    Attrib questao_1=1    1.2555589440368686
+    Attrib questao_1=0    0.23286922015186884
+    Attrib questao_1=-1    -2.1217591861666754
+    Attrib questao_2=1    -2.5567503041037747
+    Attrib questao_2=0    0.12044868736566677
+    Attrib questao_2=-1    1.8063445963883442
+    Attrib questao_3=1    -2.180997369683641
+    Attrib questao_3=0    0.16467217626328626
+    Attrib questao_3=-1    1.5203946269780126
+    Attrib questao_4=1    1.478497753799806
+    Attrib questao_4=0    0.18193693493319987
+    Attrib questao_4=-1    -2.14738541839672
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -0.5908051996080816
+    Attrib questao_0=1    1.823218448631856
+    Attrib questao_0=0    -0.017229252079308813
+    Attrib questao_0=-1    -1.1793730936808793
+    Attrib questao_1=1    0.29143175352670997
+    Attrib questao_1=0    0.022924604159967617
+    Attrib questao_1=-1    0.3087693131442034
+    Attrib questao_2=1    -1.9139937352973353
+    Attrib questao_2=0    -0.04848202466519025
+    Attrib questao_2=-1    2.5851491785415464
+    Attrib questao_3=1    1.3874002015446747
+    Attrib questao_3=0    -0.12030882603282661
+    Attrib questao_3=-1    -0.7072868641158717
+    Attrib questao_4=1    -0.8364598061232796
+    Attrib questao_4=0    -0.11960661104057352
+    Attrib questao_4=-1    1.5032951062612425
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -1.0123262396811936
+    Attrib questao_0=1    2.0225104397455183
+    Attrib questao_0=0    1.2066795909951995
+    Attrib questao_0=-1    -2.196158148806054
+    Attrib questao_1=1    -1.4209943412317714
+    Attrib questao_1=0    1.2431496065132406
+    Attrib questao_1=-1    1.1556401507876186
+    Attrib questao_2=1    -0.5341470885217787
+    Attrib questao_2=0    1.4275434069165756
+    Attrib questao_2=-1    0.17043675093161395
+    Attrib questao_3=1    -2.121184898819395
+    Attrib questao_3=0    1.38775299424869
+    Attrib questao_3=-1    1.698704512814503
+    Attrib questao_4=1    3.060189275704524
+    Attrib questao_4=0    1.4163871499744634
+    Attrib questao_4=-1    -3.4211146135204524
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -0.6623781061210724
+    Attrib questao_0=1    -1.4146745793586197
+    Attrib questao_0=0    0.02489816183869384
+    Attrib questao_0=-1    2.0224766598065385
+    Attrib questao_1=1    0.5213572940989125
+    Attrib questao_1=0    0.07316788868645026
+    Attrib questao_1=-1    0.10534627817842421
+    Attrib questao_2=1    -0.5608052754264891
+    Attrib questao_2=0    0.04804031332112067
+    Attrib questao_2=-1    1.19623063192221
+    Attrib questao_3=1    -0.3580351027889824
+    Attrib questao_3=0    0.03138190363601121
+    Attrib questao_3=-1    0.919939394909971
+    Attrib questao_4=1    -1.2417446925130147
+    Attrib questao_4=0    0.05229820035806042
+    Attrib questao_4=-1    1.765571949674705
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.8741574343329285
+    Attrib questao_0=1    -0.6441242847678976
+    Attrib questao_0=0    0.38558914149128176
+    Attrib questao_0=-1    1.1266681158153324
+    Attrib questao_1=1    -0.06436170831936473
+    Attrib questao_1=0    0.38165585833359394
+    Attrib questao_1=-1    0.5177138521804054
+    Attrib questao_2=1    -0.5644062992837529
+    Attrib questao_2=0    0.3269392657988646
+    Attrib questao_2=-1    1.0623186713335904
+    Attrib questao_3=1    -0.28058282639324383
+    Attrib questao_3=0    0.3801622965278049
+    Attrib questao_3=-1    0.7682051402088395
+    Attrib questao_4=1    0.24469554109203895
+    Attrib questao_4=0    0.3142907923192462
+    Attrib questao_4=-1    0.2514947310608046
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    -0.7436816635582035
+    Attrib questao_0=1    0.018179101188494928
+    Attrib questao_0=0    0.3486393119814295
+    Attrib questao_0=-1    0.364843632896211
+    Attrib questao_1=1    0.411234758844678
+    Attrib questao_1=0    0.40223625008533115
+    Attrib questao_1=-1    -0.024483387671141076
+    Attrib questao_2=1    -0.2166875584870086
+    Attrib questao_2=0    0.35634504751427487
+    Attrib questao_2=-1    0.6704709775662223
+    Attrib questao_3=1    0.12711140506657315
+    Attrib questao_3=0    0.27560675640721033
+    Attrib questao_3=-1    0.28516610996098585
+    Attrib questao_4=1    0.34710020032596384
+    Attrib questao_4=0    0.3123744424793875
+    Attrib questao_4=-1    0.13604906926346175
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -0.8642089217672326
+    Attrib questao_0=1    -0.18533675256782836
+    Attrib questao_0=0    0.4769714929754135
+    Attrib questao_0=-1    0.6412599777920253
+    Attrib questao_1=1    0.312978701187278
+    Attrib questao_1=0    0.3824662578941306
+    Attrib questao_1=-1    0.08181382817407712
+    Attrib questao_2=1    -0.31567131141137894
+    Attrib questao_2=0    0.3546721601375708
+    Attrib questao_2=-1    0.8306876515251453
+    Attrib questao_3=1    -0.0014994342043039045
+    Attrib questao_3=0    0.3573514548483457
+    Attrib questao_3=-1    0.45022426334780064
+    Attrib questao_4=1    0.31511623341807093
+    Attrib questao_4=0    0.3529806908662944
+    Attrib questao_4=-1    0.05469280843642635
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -0.6611533164789968
+    Attrib questao_0=1    1.247474158156493
+    Attrib questao_0=0    0.9062002890430162
+    Attrib questao_0=-1    -1.5025963628539512
+    Attrib questao_1=1    -1.450174013705079
+    Attrib questao_1=0    0.8484678593485343
+    Attrib questao_1=-1    1.1923139313544135
+    Attrib questao_2=1    -2.289866026741846
+    Attrib questao_2=0    0.7712210107850233
+    Attrib questao_2=-1    2.1428513974285823
+    Attrib questao_3=1    -0.35261973877125996
+    Attrib questao_3=0    0.8351819733602988
+    Attrib questao_3=-1    0.19289688646925804
+    Attrib questao_4=1    -2.830933800897889
+    Attrib questao_4=0    0.8302038179929474
+    Attrib questao_4=-1    2.6506192092271514
+Class fortemente_aprovado
+    Input
+    Node 0
+Class fortemente_reprovado
+    Input
+    Node 1
+
+
+Time taken to build model: 0.46 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          42               84      %
+Incorrectly Classified Instances         8               16      %
+Kappa statistic                          0.6721
+Mean absolute error                      0.236 
+Root mean squared error                  0.3368
+Relative absolute error                 47.8578 %
+Root relative squared error             67.8486 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.893    0.227    0.833      0.893    0.862      0.674    0.917     0.921     fortemente_aprovado
+                 0.773    0.107    0.850      0.773    0.810      0.674    0.917     0.885     fortemente_reprovado
+Weighted Avg.    0.840    0.174    0.841      0.840    0.839      0.674    0.917     0.905     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 25  3 |  a = fortemente_aprovado
+  5 17 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          16               32      %
+Incorrectly Classified Instances        34               68      %
+Kappa statistic                         -0.2409
+Mean absolute error                      0.62  
+Root mean squared error                  0.713 
+Relative absolute error                130.0096 %
+Root relative squared error            148.5834 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.286    0.600    0.526      0.286    0.370      -0.297   0.385     0.636     fortemente_aprovado
+                 0.400    0.714    0.194      0.400    0.261      -0.297   0.385     0.295     fortemente_reprovado
+Weighted Avg.    0.320    0.634    0.426      0.320    0.338      -0.297   0.385     0.534     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 10 25 |  a = fortemente_aprovado
+  9  6 |  b = fortemente_reprovado
+

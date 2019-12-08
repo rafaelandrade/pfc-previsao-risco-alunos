@@ -1,0 +1,65 @@
+
+Options: -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0 
+
+=== Classifier model (full training set) ===
+
+fortemente_aprovado (29.000) NB1 NB adaptive1
+
+Time taken to build model: 0.43 seconds
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          38               76      %
+Incorrectly Classified Instances        12               24      %
+Kappa statistic                          0.5223
+Mean absolute error                      0.2924
+Root mean squared error                  0.4453
+Relative absolute error                 59.3051 %
+Root relative squared error             89.7006 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.714    0.182    0.833      0.714    0.769      0.529    0.787     0.786     fortemente_aprovado
+                 0.818    0.286    0.692      0.818    0.750      0.529    0.787     0.739     fortemente_reprovado
+Weighted Avg.    0.760    0.228    0.771      0.760    0.761      0.529    0.787     0.765     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 20  8 |  a = fortemente_aprovado
+  4 18 |  b = fortemente_reprovado
+
+Time taken to test model on test data: 0.01 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances          26               52      %
+Incorrectly Classified Instances        24               48      %
+Kappa statistic                          0.04  
+Mean absolute error                      0.501 
+Root mean squared error                  0.5926
+Relative absolute error                105.0515 %
+Root relative squared error            123.4896 %
+Total Number of Instances               50     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.514    0.467    0.720      0.514    0.600      0.044    0.468     0.706     fortemente_aprovado
+                 0.533    0.486    0.320      0.533    0.400      0.044    0.468     0.335     fortemente_reprovado
+Weighted Avg.    0.520    0.472    0.600      0.520    0.540      0.044    0.468     0.595     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 18 17 |  a = fortemente_aprovado
+  7  8 |  b = fortemente_reprovado
+

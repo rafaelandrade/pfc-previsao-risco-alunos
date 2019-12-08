@@ -1,0 +1,93 @@
+@relation teste
+
+
+@attribute questao_0 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_1 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_2 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_3 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_4 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_5 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_6 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_7 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_8 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_9 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_10 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_11 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_12 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_13 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_14 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_15 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_16 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_17 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_18 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_19 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_20 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_21 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_22 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_23 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_24 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_25 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_26 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_27 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_28 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_29 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_30 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_31 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_32 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_33 {'A', 'B', 'C', 'D', '-'}
+@attribute questao_34 {'A', 'B', 'C', 'D', '-'}
+@attribute situacao {'fortemente_aprovado', 'fortemente_reprovado'}
+
+
+
+@data
+'C','A','B','D','B','C','D','A','-','-','-','-','-','-','-','-','A','D','C','B','A','A','C','B','B','A','B','B','D','B','A','D','D','-','-','fortemente_reprovado'
+'C','A','D','D','B','C','A','A','A','C','C','C','D','D','-','-','A','D','B','B','B','A','C','-','-','-','-','-','-','-','-','-','-','D','D','fortemente_reprovado'
+'D','A','B','C','C','C','C','D','A','B','C','C','D','D','A','A','D','D','B','B','B','A','A','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','C','C','C','B','D','A','B','D','C','D','D','D','D','-','-','-','-','-','-','-','A','A','A','A','C','C','B','A','B','D','C','C','fortemente_aprovado'
+'C','A','B','C','C','C','C','D','A','B','B','C','B','A','A','A','D','C','B','B','A','B','D','A','B','A','A','C','C','D','A','B','D','B','B','fortemente_aprovado'
+'C','C','-','D','C','-','B','D','A','B','D','C','-','-','-','-','C','C','B','B','A','A','A','A','B','A','A','C','C','C','A','B','D','B','B','fortemente_aprovado'
+'C','A','A','C','C','C','A','A','A','B','B','C','A','B','A','A','D','C','B','B','A','A','C','B','B','B','A','C','C','D','A','D','D','D','B','fortemente_reprovado'
+'C','A','B','C','C','C','D','D','A','B','B','C','C','A','C','C','A','D','B','B','A','A','C','-','-','-','-','-','-','-','-','-','-','C','C','fortemente_aprovado'
+'C','B','B','C','C','C','D','D','A','C','C','A','D','B','B','A','D','A','B','B','D','B','C','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','C','C','B','D','A','A','B','B','C','B','A','D','D','B','D','B','B','A','-','A','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'C','A','B','C','C','C','D','D','A','B','D','C','C','D','A','A','B','C','B','B','A','A','D','-','-','-','-','-','-','-','-','-','-','C','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','A','C','C','A','A','A','B','D','C','B','D','A','A','D','C','D','B','A','A','B','B','B','A','B','C','C','A','A','D','D','C','C','fortemente_aprovado'
+'C','A','B','C','-','B','B','A','A','B','D','C','B','D','A','A','A','A','B','B','A','A','C','A','B','B','B','A','C','B','A','D','D','C','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','C','C','C','A','D','A','B','D','C','D','D','D','D','C','C','B','B','C','A','C','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'C','A','B','D','C','C','B','D','B','B','D','-','B','B','-','D','C','C','D','B','C','A','B','A','B','B','B','C','C','D','A','D','D','-','-','fortemente_aprovado'
+'C','A','B','B','B','C','D','A','A','B','D','C','D','B','A','A','A','A','D','C','A','A','D','B','B','A','A','C','C','C','D','B','B','B','B','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','A','B','B','C','A','A','D','A','B','B','B','B','A','D','D','A','A','A','A','A','C','D','A','D','D','C','B','fortemente_aprovado'
+'C','C','B','C','C','C','D','D','A','B','D','C','A','A','A','D','A','A','B','B','A','A','C','B','B','A','A','D','D','D','A','D','D','C','C','fortemente_aprovado'
+'C','A','B','C','C','C','D','D','A','B','D','C','D','D','A','A','C','C','B','B','A','A','A','B','B','A','A','C','C','A','A','D','D','D','C','fortemente_aprovado'
+'C','A','B','A','C','-','C','D','A','D','D','B','A','D','A','A','C','C','B','B','A','A','-','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'C','A','B','C','C','C','A','D','B','B','D','C','D','C','A','-','B','C','D','B','B','A','C','-','-','-','-','-','-','-','-','-','-','A','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','B','B','C','B','A','A','B','D','C','-','B','A','A','A','A','C','-','B','B','D','-','-','-','-','-','-','-','-','-','-','C','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','A','B','C','C','B','D','A','A','A','C','C','B','A','A','A','-','-','-','-','-','-','-','-','-','-','B','B','fortemente_aprovado'
+'C','A','D','C','C','C','D','D','A','B','D','C','-','B','A','A','A','A','B','B','A','A','C','A','B','B','B','A','C','A','A','D','D','C','C','fortemente_aprovado'
+'C','A','B','A','C','C','A','A','A','B','D','C','A','D','A','A','A','A','B','B','A','A','A','A','B','A','B','A','C','D','A','C','D','C','C','fortemente_reprovado'
+'C','D','C','C','C','-','-','-','B','A','D','C','A','D','-','-','A','C','D','B','A','A','D','-','-','-','-','-','-','-','-','-','-','C','D','fortemente_reprovado'
+'D','A','A','C','-','B','A','A','A','B','C','B','D','B','D','A','A','A','C','D','C','B','A','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','C','B','C','C','C','B','D','A','D','D','C','A','D','A','A','D','C','B','B','A','A','C','A','A','A','A','C','C','B','A','D','D','C','C','fortemente_aprovado'
+'C','A','C','A','C','A','D','A','A','C','B','C','A','D','D','B','-','-','-','-','-','-','-','B','B','B','A','A','A','A','A','B','B','-','-','fortemente_reprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','A','D','C','C','B','B','C','B','B','A','A','B','B','B','A','D','D','-','-','fortemente_aprovado'
+'C','A','B','C','C','C','B','D','A','B','D','A','B','D','A','A','C','C','B','B','D','A','C','-','-','-','-','-','-','-','-','-','-','C','C','fortemente_aprovado'
+'C','C','B','C','C','D','B','D','A','B','D','C','B','B','A','A','A','A','B','B','A','A','C','B','B','B','B','C','C','A','D','D','D','C','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','fortemente_reprovado'
+'C','A','B','D','C','C','B','C','A','B','D','C','C','D','A','A','C','C','B','B','A','A','A','B','B','A','B','C','C','D','A','D','D','B','C','fortemente_aprovado'
+'C','A','B','-','C','C','A','A','A','B','D','C','C','C','D','A','C','D','C','C','B','A','C','B','B','A','A','A','C','-','B','B','D','D','D','fortemente_reprovado'
+'D','A','C','D','C','C','C','D','A','B','D','C','D','C','C','D','D','C','B','B','C','A','D','A','B','A','A','C','C','A','D','D','D','D','B','fortemente_aprovado'
+'C','A','D','A','C','C','C','D','A','B','D','C','B','D','A','A','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'C','D','B','-','D','C','B','B','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_reprovado'
+'C','A','D','A','C','C','C','B','A','D','D','C','A','D','A','A','A','D','B','B','B','A','A','D','B','A','B','A','D','A','D','D','D','D','C','fortemente_aprovado'
+'C','A','B','C','C','C','C','C','A','B','-','C','B','D','A','A','C','C','-','D','A','B','A','-','-','-','-','-','-','-','-','-','-','D','C','fortemente_aprovado'
+'C','A','B','-','C','C','D','D','A','B','D','C','D','B','A','A','C','C','B','B','C','A','C','B','B','A','A','B','C','C','A','A','D','C','C','fortemente_aprovado'
+'-','-','-','-','-','-','-','-','B','B','D','C','D','D','A','A','D','D','B','B','B','A','A','B','B','A','A','B','B','D','D','D','D','C','C','fortemente_aprovado'
+'C','C','B','C','C','D','B','B','A','B','D','C','A','A','A','A','C','C','B','B','B','A','A','B','B','A','A','C','C','D','D','D','D','B','B','fortemente_aprovado'
+'C','A','A','C','C','C','A','D','A','B','D','C','C','D','A','A','C','C','B','B','B','C','B','B','B','B','B','C','C','A','A','D','D','C','C','fortemente_aprovado'
+'D','A','D','A','-','C','D','D','A','A','D','A','A','A','B','A','C','C','D','B','C','A','B','A','A','B','A','A','C','D','D','C','D','C','C','fortemente_aprovado'
